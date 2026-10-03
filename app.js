@@ -176,7 +176,7 @@ window.EdulabFriends={create,validatePack};
    sociology:{title:'성취 차이를 개인 탓으로만 보지 않기',story:'같은 과제를 냈지만 어떤 학생은 조용한 공간과 도움을 받고, 어떤 학생은 기기와 시간을 구하기 어렵습니다. 같은 과제라는 이유만으로 배움의 기회가 같지는 않습니다.',meaning:'교육사회는 교육과 사회의 관계를 살핍니다. 가정 배경, 언어와 문화, 학교의 규칙, 교육 기회가 성취와 참여에 어떤 영향을 주는지 생각합니다.',words:[['교육기회','교육에 접근하고 참여하며 배울 수 있는 조건입니다.'],['형평성','학생에게 필요한 지원을 제공해 실제 배움의 기회를 보장하는 관점입니다.'],['잠재적 교육과정','공식 내용 이외에 학교의 관행·관계·규칙에서 배우는 것입니다.']],lens:'자원만 똑같이 주었다고 끝내지 말고 실제 참여와 배움의 차이가 줄었는지 확인하세요.'},
    counseling:{title:'학생의 말을 듣고 도움을 연결하기',story:'학생이 “학교에 오기 싫다”고 말합니다. 곧바로 훈계하기보다 무엇이 힘든지 듣고, 필요한 도움과 안전을 확인해야 합니다.',meaning:'생활지도와 상담은 학생이 자신과 상황을 이해하고 선택·적응하도록 돕습니다. 교사의 전문성 범위를 넘는 위험 신호는 혼자 해결하려 하지 않고 전문 지원으로 연결합니다.',words:[['공감','학생의 관점에서 경험과 감정을 이해하고 전달하는 것입니다.'],['반영','학생이 표현한 내용이나 감정을 다시 말해 이해를 확인하는 것입니다.'],['의뢰','필요한 전문 지원 기관이나 사람으로 도움을 연결하는 것입니다.']],lens:'상담 기법의 이름보다 교사가 실제로 어떤 말을 하고, 어떤 도움을 연결할지 보여 주세요.'}
   };
-  const fallback=domains[0];
+  const fallback=domains.find(l=>l.id==='assessment')||domains[0];
   let selected=domains.find(l=>l.id===state.reading?.domain)||fallback, page=Number.isInteger(state.reading?.page)?state.reading.page:0;
   if(!selected)return{render:()=>{},wire:()=>{},library:()=>{},stop:()=>{}};
   page=Math.max(0,Math.min(page,selected.concepts.length));
@@ -186,10 +186,18 @@ window.EdulabFriends={create,validatePack};
   const by=id=>main.querySelector('#'+id);
   const blocks=xs=>xs.map(x=>'<p>'+esc(x)+'</p>').join('');
   const update=()=>{state.reading={domain:selected.id,page};save();};
+  function relatedBook(){
+   const names={administration:'요점쏙쏙_교육행정.pdf',curriculum:'요점쏙쏙_교육과정학.pdf',instruction:'요점쏙쏙_교육방법론.pdf',technology:'요점쏙쏙_교육방법론.pdf',assessment:'요점쏙쏙_교육평가.pdf',psychology:'요점쏙쏙_교육심리학.pdf',counseling:'요점쏙쏙_생활지도와 상담.pdf'};
+   return catalog.find(x=>x.name===names[selected.id]);
+  }
+  function quickBook(){
+   const x=privateReady&&relatedBook();
+   return x?'<section class="rd-direct"><h3>이 단원 교재도 바로 읽기</h3><p>권지수의 '+esc(selected.domain)+' 정리 본문이 이 앱 안에서 열립니다.</p><button class="primary" id="rdRelatedBook">교재 본문 바로 열기</button></section>':'';
+  }
   function render(){
    const l=selected,p=primers[l.id]||{title:l.domain,story:l.lead||l.title,meaning:'먼저 개념의 뜻과 사례를 읽어 보세요.',words:[],lens:l.lead||''};
    const c=page?l.concepts[page-1]:null;
-   main.innerHTML=intro('설정 없이 읽는 수업','교육학이 낯설면, 여기부터 읽어요.','파일을 준비할 필요 없이 이 화면에서 설명을 읽습니다. 한 번에 한 개념씩 보고, 다음 버튼으로 이어 가세요.')+'<section data-reader-screen="lesson" class="rd-layout"><aside class="panel rd-navigation"><label for="rdUnit">읽을 단원</label><select id="rdUnit">'+domains.map(x=>'<option value="'+esc(x.id)+'" '+(l.id===x.id?'selected':'')+'>'+esc(x.domain)+'</option>').join('')+'</select><label for="rdPage">읽을 내용</label><select id="rdPage"><option value="0" '+(!page?'selected':'')+'>먼저 읽는 쉬운 안내</option>'+l.concepts.map((x,i)=>'<option value="'+(i+1)+'" '+(page===i+1?'selected':'')+'>'+(i+1)+'. '+esc(x.term)+'</option>').join('')+'</select><p class="muted">'+(page+1)+' / '+(l.concepts.length+1)+'번째 읽을 거리</p><button data-rd-nav="library">내 교재 본문도 읽기 →</button><button data-rd-nav="scope">전체 단원 지도</button><details><summary>이 화면의 읽는 순서</summary><p>설명 → 학교 사례 → 헷갈리는 차이를 읽습니다. 확인 문제와 답안 연습은 익숙해진 뒤 해도 됩니다.</p></details></aside><article class="panel rd-paper">'+tags([l.domain])+'<h2>'+esc(c?c.term:p.title)+'</h2>'+(c?'<section><h3>무슨 뜻인가요?</h3><p class="rd-lead">'+esc(c.meaning)+'</p></section><section class="rd-example"><h3>학교에서는 이렇게 생각해요</h3><p>'+esc(c.example)+'</p></section><section><h3>이것과 헷갈리지 마세요</h3><p>'+esc(c.contrast)+'</p></section>'+(c.selfCheck?'<details class="rd-check"><summary>이해했는지 확인해 볼까요? · 선택</summary><p>'+esc(c.selfCheck.question)+'</p><details><summary>설명 보기</summary><p>'+esc(c.selfCheck.answer)+'</p></details></details>':''):'<section><h3>학교의 한 장면부터 볼게요</h3><p class="rd-lead">'+esc(p.story)+'</p></section><section><h3>이 단원은 무엇을 배우나요?</h3><p>'+esc(p.meaning)+'</p></section><section class="rd-example"><h3>앞으로 나올 말을 먼저 풀어 볼게요</h3><dl>'+p.words.map(([a,b])=>'<dt>'+esc(a)+'</dt><dd>'+esc(b)+'</dd>').join('')+'</dl></section><section><h3>시험 문제를 읽을 때는</h3><p>'+esc(p.lens)+'</p></section>')+'<div class="rd-pager"><button id="rdPrev" '+(page===0?'disabled':'')+'>← 이전 설명</button><button class="primary" id="rdNext">'+(page<l.concepts.length?'다음 설명 읽기 →':'다음 단원 읽기 →')+'</button></div><p class="muted" role="status">읽던 위치는 이 브라우저에 저장됩니다. 읽은 수를 시험 점수로 환산하지 않습니다.</p><details class="rd-further"><summary>좀 더 읽거나 연습하고 싶다면</summary><button id="rdFullUnit">이 단원 전체 개념과 적용 과제</button><button data-rd-nav="policy">올해 이슈와 연결하기</button><button data-rd-nav="library">내 교재 본문 읽기</button>'+(c?.sources?.length?'<h3>설명 대조에 사용한 자료</h3>'+c.sources.map(s=>'<p>'+esc(s.title)+(s.location?' · '+esc(s.location):'')+'</p>').join(''):'')+'</details></article></section>';
+   main.innerHTML='<header class="rd-start"><p>아래 설명은 이미 열려 있어요. 그대로 읽고, 다음 설명으로 넘어가세요.</p><button id="rdStartEasy">어디부터 볼지 모르겠어요 · 쉬운 평가부터</button></header>'+'<section data-reader-screen="lesson" class="rd-layout"><aside class="panel rd-navigation"><details class="rd-switcher"><summary>다른 단원·개념 고르기</summary><label for="rdUnit">읽을 단원</label><select id="rdUnit">'+domains.map(x=>'<option value="'+esc(x.id)+'" '+(l.id===x.id?'selected':'')+'>'+esc(x.domain)+'</option>').join('')+'</select><label for="rdPage">읽을 내용</label><select id="rdPage"><option value="0" '+(!page?'selected':'')+'>먼저 읽는 쉬운 안내</option>'+l.concepts.map((x,i)=>'<option value="'+(i+1)+'" '+(page===i+1?'selected':'')+'>'+(i+1)+'. '+esc(x.term)+'</option>').join('')+'</select><p class="muted">'+(page+1)+' / '+(l.concepts.length+1)+'번째 읽을 거리</p><button data-rd-nav="library">내 교재 본문도 읽기 →</button><button data-rd-nav="scope">전체 단원 지도</button><details class="rd-reading-order"><summary>이 화면의 읽는 순서</summary><p>설명 → 학교 사례 → 헷갈리는 차이를 읽습니다. 확인 문제와 답안 연습은 익숙해진 뒤 해도 됩니다.</p></details></details></aside><article class="panel rd-paper">'+tags([l.domain])+'<h2>'+esc(c?c.term:p.title)+'</h2>'+(c?'<section><h3>무슨 뜻인가요?</h3><p class="rd-lead">'+esc(c.meaning)+'</p></section><section class="rd-example"><h3>학교에서는 이렇게 생각해요</h3><p>'+esc(c.example)+'</p></section><section><h3>이것과 헷갈리지 마세요</h3><p>'+esc(c.contrast)+'</p></section>'+(c.selfCheck?'<details class="rd-check"><summary>이해했는지 확인해 볼까요? · 선택</summary><p>'+esc(c.selfCheck.question)+'</p><details><summary>설명 보기</summary><p>'+esc(c.selfCheck.answer)+'</p></details></details>':''):'<section><h3>학교의 한 장면부터 볼게요</h3><p class="rd-lead">'+esc(p.story)+'</p></section><section><h3>이 단원은 무엇을 배우나요?</h3><p>'+esc(p.meaning)+'</p></section><section class="rd-example"><h3>앞으로 나올 말을 먼저 풀어 볼게요</h3><dl>'+p.words.map(([a,b])=>'<dt>'+esc(a)+'</dt><dd>'+esc(b)+'</dd>').join('')+'</dl></section><section><h3>시험 문제를 읽을 때는</h3><p>'+esc(p.lens)+'</p></section>')+quickBook()+'<div class="rd-pager"><button id="rdPrev" '+(page===0?'disabled':'')+'>← 이전 설명</button><button class="primary" id="rdNext">'+(page<l.concepts.length?'다음 설명 읽기 →':'다음 단원 읽기 →')+'</button></div><p class="muted" role="status">읽던 위치는 이 브라우저에 저장됩니다. 읽은 수를 시험 점수로 환산하지 않습니다.</p><details class="rd-further"><summary>좀 더 읽거나 연습하고 싶다면</summary><button id="rdFullUnit">이 단원 전체 개념과 적용 과제</button><button data-rd-nav="policy">올해 이슈와 연결하기</button><button data-rd-nav="library">내 교재 본문 읽기</button>'+(c?.sources?.length?'<h3>설명 대조에 사용한 자료</h3>'+c.sources.map(s=>'<p>'+esc(s.title)+(s.location?' · '+esc(s.location):'')+'</p>').join(''):'')+'</details></article></section>';
   }
   function publicLibrary(){
    main.innerHTML=intro('온라인 읽기','자료를 찾으러 나가지 않아도 됩니다.','쉬운 수업은 이 앱에서 바로 읽고, 개인 교재 본문은 로그인한 개인 Apps Script 앱에서 읽습니다.')+'<section class="panel"><h2>설명부터 읽고 싶어요</h2><p>처음 보는 용어도 뜻·학교 사례·헷갈리는 차이 순서로 풀어 씁니다. 파일 선택이나 폴더 주소 입력 없이 시작하세요.</p><button class="primary" data-rd-nav="learn">쉬운 수업 바로 읽기 →</button></section><section class="panel"><h2>내가 모아 둔 교재를 읽고 싶어요</h2><p>개인 교재의 본문은 소유자 로그인으로 보호한 Apps Script판에 담았습니다. 아래 앱을 열어 ‘내 교재 본문 읽기’를 누르세요.</p><a class="button primary" href="'+esc(D.personalAppUrl||'')+'" target="_blank" rel="noopener">개인 교재가 들어 있는 앱 열기 ↗</a><p class="muted">공개 친구용 앱에는 개인 교재 전문을 게시하지 않습니다.</p></section>';
@@ -227,6 +235,8 @@ window.EdulabFriends={create,validatePack};
   function bookChange(n){bookPage=Math.max(1,Math.min(book.pages,n));renderBook();wire();main.querySelector('.rd-book-controls')?.scrollIntoView?.({block:'start'});}
   function bindBooks(){main.querySelectorAll('[data-rd-book]').forEach(b=>b.onclick=()=>{book=catalog.find(x=>x.id===b.dataset.rdBook);bookPage=readBookPosition(book.id)||book.startPage||1;library();wire();});}
   function wire(){
+   if(by('rdRelatedBook'))by('rdRelatedBook').onclick=()=>{book=relatedBook();bookPage=readBookPosition(book.id)||book.startPage||1;navigate('library');};
+   if(by('rdStartEasy'))by('rdStartEasy').onclick=begin;
    main.querySelectorAll('[data-rd-nav]').forEach(b=>b.onclick=()=>navigate(b.dataset.rdNav));
    if(by('rdUnit'))by('rdUnit').onchange=e=>{selected=domains.find(x=>x.id===e.target.value)||fallback;page=0;update();render();wire();};
    if(by('rdPage'))by('rdPage').onchange=e=>{page=Number(e.target.value);update();render();wire();};
@@ -248,7 +258,7 @@ window.EdulabFriends={create,validatePack};
    };
   }
   function stop(v){if(v!=='library'){++searchRequest;++request;bookLoading=false;}}
-  function begin(){selected=domains.find(x=>x.id==='administration')||fallback;page=0;update();navigate('learn');}
+  function begin(){selected=fallback;page=0;update();navigate('learn');}
   function openBookPath(path,n=1){
    const name=String(path).replace(/\\/g,'/').split('/').pop();const found=catalog.find(x=>x.name===name||x.aliases?.includes(name));
    if(!privateReady){navigate('library');return;}
@@ -390,7 +400,12 @@ function wire(){
  if(by('saveLibraryRoot'))by('saveLibraryRoot').onclick=()=>{const s=by('libraryRoot').value.trim().replace(/^"|"$/g,'');if(!/^[A-Z]:[\\/]|^\\\\/i.test(s)){by('rootStatus').textContent='파일 탐색기에서 복사한 전체 폴더 주소를 입력해 주세요.';by('libraryRoot').focus();return;}state.libraryRoot=s;save();by('rootStatus').textContent='저장된 폴더: '+s;toast('이제 자료 위치를 복사해 파일 탐색기에서 열 수 있어요.');};
  if(by('export'))by('export').onclick=exportRecords;if(by('import'))by('import').onchange=e=>previewImport(e.target.files[0]);
 }
-document.querySelector('.brand').onclick=e=>{e.preventDefault();navigate('learn');};document.querySelectorAll('nav button,[data-header-nav]').forEach(b=>b.onclick=()=>navigate(b.dataset.view||b.dataset.headerNav));document.getElementById('emergencyExport').onclick=exportRecords;
+document.querySelector('.brand').onclick=e=>{e.preventDefault();navigate('learn');};document.querySelectorAll('nav button[data-view],[data-header-nav]').forEach(b=>b.onclick=()=>navigate(b.dataset.view||b.dataset.headerNav));document.getElementById('emergencyExport').onclick=exportRecords;
+document.body.dataset.simpleStudy='true';
+document.body.dataset.privateBooks=Array.isArray(window.PRIVATE_READER_CATALOG)&&window.PRIVATE_READER_CATALOG.length?'true':'false';
+const menuToggle=document.createElement('button');menuToggle.id='moreStudyTools';menuToggle.textContent='다른 공부 도구';menuToggle.setAttribute('aria-expanded','false');
+menuToggle.onclick=()=>{const nav=menuToggle.parentElement,expanded=nav.classList.toggle('nav-expanded');menuToggle.setAttribute('aria-expanded',String(expanded));menuToggle.textContent=expanded?'다른 도구 접기':'다른 공부 도구';};
+document.querySelector('nav').append(menuToggle);
 document.addEventListener('keydown',e=>{const dialogEl=document.querySelector('[role="dialog"]');if(!dialogEl)return;if(e.key==='Escape'){e.preventDefault();closeDialog();}if(e.key==='Tab'){const xs=[...dialogEl.querySelectorAll('button,textarea,input,a[href]')].filter(x=>!x.disabled);if(!xs.length)return;const first=xs[0],last=xs[xs.length-1];if(e.shiftKey&&document.activeElement===first){e.preventDefault();last.focus();}else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus();}}});
 window.addEventListener('hashchange',()=>{const v=location.hash.slice(1);if(v!==view&&routes.includes(v))navigate(v);});
 window.addEventListener('error',()=>{const e=document.getElementById('appError');if(e)e.hidden=false;});
