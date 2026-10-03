@@ -188,7 +188,9 @@ window.EdulabFriends={create,validatePack};
   const update=()=>{state.reading={domain:selected.id,page};save();};
   function relatedBook(){
    const names={administration:'요점쏙쏙_교육행정.pdf',curriculum:'요점쏙쏙_교육과정학.pdf',instruction:'요점쏙쏙_교육방법론.pdf',technology:'요점쏙쏙_교육방법론.pdf',assessment:'요점쏙쏙_교육평가.pdf',psychology:'요점쏙쏙_교육심리학.pdf',counseling:'요점쏙쏙_생활지도와 상담.pdf'};
-   return catalog.find(x=>x.name===names[selected.id]);
+   const x=catalog.find(x=>x.name===names[selected.id]);
+   const firstBody={administration:6,curriculum:4,instruction:34,technology:5,assessment:5,psychology:5,counseling:5};
+   return x?{...x,startPage:firstBody[selected.id]||x.startPage}:null;
   }
   function quickBook(){
    const x=privateReady&&relatedBook();
@@ -235,7 +237,7 @@ window.EdulabFriends={create,validatePack};
   function bookChange(n){bookPage=Math.max(1,Math.min(book.pages,n));renderBook();wire();main.querySelector('.rd-book-controls')?.scrollIntoView?.({block:'start'});}
   function bindBooks(){main.querySelectorAll('[data-rd-book]').forEach(b=>b.onclick=()=>{book=catalog.find(x=>x.id===b.dataset.rdBook);bookPage=readBookPosition(book.id)||book.startPage||1;library();wire();});}
   function wire(){
-   if(by('rdRelatedBook'))by('rdRelatedBook').onclick=()=>{book=relatedBook();bookPage=readBookPosition(book.id)||book.startPage||1;navigate('library');};
+   if(by('rdRelatedBook'))by('rdRelatedBook').onclick=()=>{book=relatedBook();bookPage=book.startPage||1;navigate('library');};
    if(by('rdStartEasy'))by('rdStartEasy').onclick=begin;
    main.querySelectorAll('[data-rd-nav]').forEach(b=>b.onclick=()=>navigate(b.dataset.rdNav));
    if(by('rdUnit'))by('rdUnit').onchange=e=>{selected=domains.find(x=>x.id===e.target.value)||fallback;page=0;update();render();wire();};
