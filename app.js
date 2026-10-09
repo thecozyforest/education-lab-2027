@@ -255,6 +255,21 @@ window.EdulabFriends={create,validatePack};
   const privateReady=!!window.google?.script?.run&&catalog.length>0;
   const by=id=>main.querySelector('#'+id);
   const blocks=xs=>xs.map(x=>'<p>'+esc(x)+'</p>').join('');
+  const bookTitle=x=>x.displayTitle||x.name;
+  function readingBlocks(xs){
+   return '<div class="rd-rich-text">'+xs.map(b=>{
+    if(b.type==='h2'||b.type==='h3')return '<'+b.type+'>'+esc(b.text)+'</'+b.type+'>';
+    if(b.type==='notice')return '<p class="rd-reading-note">'+esc(b.text)+'</p>';
+    if(b.type==='details')return '<details class="rd-reading-extra"><summary>'+esc(b.title)+'</summary>'+blocks(b.items||[])+'</details>';
+    if(b.type==='policies')return '<div class="rd-policy-cards">'+(b.rows||[]).map(r=>'<section class="rd-policy-card"><span class="tag">'+esc(r.domain)+'</span><h4>'+esc(r.issue)+'</h4><p><b>연결할 개념</b><br>'+esc(r.concepts)+'</p><details><summary>원자료의 참고 표시</summary><p>작성자의 가능성 표시: '+esc(r.rating)+' · 출제확률을 뜻하지 않습니다.</p></details></section>').join('')+'</div>';
+    if(b.type==='pairs')return '<dl class="rd-clue-pairs">'+(b.rows||[]).map(r=>'<div><dt>'+esc(r.clue)+'</dt><dd><span aria-hidden="true">→ </span>'+esc(r.concept)+'</dd></div>').join('')+'</dl>';
+    if(b.type==='themes')return '<ol class="rd-theme-list">'+(b.items||[]).map(t=>'<li>'+esc(t)+'</li>').join('')+'</ol>';
+    return '<p>'+esc(b.text||'')+'</p>';
+   }).join('')+'</div>';
+  }
+  function sourceInfo(p){
+   return '<details class="rd-source-info"><summary>원자료 정보 · 원문 확인</summary><p>원래 제목: '+esc(book.name)+'</p><p>개인 읽기용으로 제목과 배치를 정리했습니다. 아래 원문에는 작성자·출처 표시가 보존되어 있습니다.</p>'+(p.image?'<label for="rdImageZoom">원문 확대<select id="rdImageZoom"><option value="100">화면에 맞게</option><option value="150">1.5배</option><option value="200">2배</option></select></label><div class="rd-image-wrap"><img class="rd-original-main-image" alt="원자료 '+bookPage+'쪽" src="data:image/jpeg;base64,'+p.image+'"></div>':'')+'<details><summary>원문 글자 보기'+(book.kind==='pdf'?' · OCR 오류 주의':'')+'</summary><div class="rd-book-text">'+esc(p.text||'')+'</div></details></details>';
+  }
   const update=()=>{state.reading={domain:selected.id,page};save();};
   function relatedBook(){
    const names={administration:'요점쏙쏙_교육행정.pdf',curriculum:'요점쏙쏙_교육과정학.pdf',instruction:'요점쏙쏙_교육방법론.pdf',technology:'요점쏙쏙_교육방법론.pdf',assessment:'요점쏙쏙_교육평가.pdf',psychology:'요점쏙쏙_교육심리학.pdf',counseling:'요점쏙쏙_생활지도와 상담.pdf'};
@@ -267,7 +282,7 @@ window.EdulabFriends={create,validatePack};
   }
   function newBooks(){
    const xs=catalog.filter(x=>x.group==='새로 추가한 2027 대비 자료');
-   return xs.length?'<details class="rd-new-books"><summary>10월 9일 추가한 중요 개념표·예상 키워드 읽기</summary><p>중요도와 가능성은 작성자의 판단입니다. 앱에서는 원문과 연습 문제를 구별합니다.</p><div class="actions">'+xs.map(x=>'<button data-rd-book="'+x.id+'">'+esc(x.name)+' · 앱에서 읽기</button>').join('')+'</div></details>':'';
+   return xs.length?'<details class="rd-new-books"><summary>추가 읽기 자료</summary><p>핵심 개념을 점검하고, 학교 상황과 올해 이슈를 연결해 보세요.</p><div class="actions">'+xs.map(x=>'<button data-rd-book="'+x.id+'">'+esc(bookTitle(x))+' 읽기 →</button>').join('')+'</div></details>':'';
   }
   function quickBook(){
    const x=privateReady&&relatedBook();
@@ -282,8 +297,8 @@ window.EdulabFriends={create,validatePack};
    main.innerHTML=intro('온라인 읽기','자료를 찾으러 나가지 않아도 됩니다.','쉬운 수업은 이 앱에서 바로 읽고, 개인 교재 본문은 로그인한 개인 Apps Script 앱에서 읽습니다.')+'<section class="panel"><h2>설명부터 읽고 싶어요</h2><p>처음 보는 용어도 뜻·학교 사례·헷갈리는 차이 순서로 풀어 씁니다. 파일 선택이나 폴더 주소 입력 없이 시작하세요.</p><button class="primary" data-rd-nav="learn">쉬운 수업 바로 읽기 →</button></section><section class="panel"><h2>내가 모아 둔 교재를 읽고 싶어요</h2><p>개인 교재의 본문은 소유자 로그인으로 보호한 Apps Script판에 담았습니다. 아래 앱을 열어 ‘내 교재 본문 읽기’를 누르세요.</p><a class="button primary" href="'+esc(D.personalAppUrl||'')+'" target="_blank" rel="noopener">개인 교재가 들어 있는 앱 열기 ↗</a><p class="muted">공개 친구용 앱에는 개인 교재 전문을 게시하지 않습니다.</p></section>';
   }
   function bookCards(q=''){
-   const s=q.trim().toLowerCase(),xs=catalog.filter(x=>!s||[x.name,x.group,...(x.topics||[])].join(' ').toLowerCase().includes(s));
-   return '<p class="muted">'+xs.length+'개 교재 · 선택하면 본문이 열립니다.</p><div class="rd-books">'+xs.map(x=>'<article class="panel"><span class="tag">'+esc(x.group)+'</span><h3>'+esc(x.name)+'</h3><p>'+x.pages+' '+(x.kind==='html'?'읽기 구간':'PDF 쪽')+'</p><button class="primary" data-rd-book="'+esc(x.id)+'">본문 읽기 →</button></article>').join('')+'</div>';
+   const s=q.trim().toLowerCase(),xs=catalog.filter(x=>!s||[x.name,x.displayTitle,x.group,...(x.topics||[])].join(' ').toLowerCase().includes(s));
+   return '<p class="muted">'+xs.length+'개 교재 · 선택하면 본문이 열립니다.</p><div class="rd-books">'+xs.map(x=>'<article class="panel"><span class="tag">'+esc(x.displayTitle?'읽기 자료':x.group)+'</span><h3>'+esc(bookTitle(x))+'</h3><p>'+x.pages+' '+(x.kind==='pdf'?'PDF 쪽':'읽기 구간')+'</p><button class="primary" data-rd-book="'+esc(x.id)+'">본문 읽기 →</button></article>').join('')+'</div>';
   }
   function library(){
    ++request;bookLoading=false;
@@ -296,7 +311,7 @@ window.EdulabFriends={create,validatePack};
    if(!book)return;
    const chapters=book.chapters||[],activeChapter=[...chapters].reverse().find(c=>c.page<=bookPage);
    const chapterControl=chapters.length?'<label for="rdBookChapter">읽을 장<select id="rdBookChapter">'+chapters.map(c=>'<option value="'+c.page+'" '+(c===activeChapter?'selected':'')+'>'+esc(c.title)+'</option>').join('')+'</select></label>':'';
-   main.innerHTML=intro('개인 교재 본문',book.name,'파일 다운로드 없이 이 화면에서 읽습니다.')+'<section data-reader-screen="book"><div class="actions"><button id="rdBooksBack">← 교재 목록</button><button data-rd-nav="learn">쉬운 수업으로</button></div><section class="panel rd-book-controls">'+chapterControl+'<div class="toolbar"><label for="rdBookPage">'+(book.kind==='pdf'?'PDF 쪽수':'읽기 구간')+'<input id="rdBookPage" type="number" min="1" max="'+book.pages+'" value="'+bookPage+'"></label><button id="rdBookGo">이 쪽 읽기</button><button id="rdBookPrev" '+(bookPage===1?'disabled':'')+'>← 이전 쪽</button><button id="rdBookNext" '+(bookPage===book.pages?'disabled':'')+'>다음 쪽 →</button><label for="rdBookFont">글자 크기<select id="rdBookFont"><option value="18" '+(font===18?'selected':'')+'>보통</option><option value="22" '+(font===22?'selected':'')+'>크게</option><option value="26" '+(font===26?'selected':'')+'>더 크게</option></select></label></div><p id="rdBookStatus" role="status">'+bookPage+' / '+book.pages+' · 본문을 불러오고 있어요.</p><details><summary>이 책 안에서 찾기</summary><label for="rdInsideSearch">찾을 말<input id="rdInsideSearch" type="search" placeholder="예: 형성평가"></label><button id="rdInsideFind">책 안에서 찾기</button><div id="rdSearchResults" aria-live="polite"></div></details></section><article id="rdBookBody" class="panel rd-original" style="--rd-font:'+font+'px"><p>잠시만 기다려 주세요.</p></article><div class="rd-pager"><button id="rdBookPrevBottom" '+(bookPage===1?'disabled':'')+'>← 이전 쪽</button><button class="primary" id="rdBookNextBottom" '+(bookPage===book.pages?'disabled':'')+'>다음 쪽 읽기 →</button></div><p class="muted">PDF 번호는 인쇄 쪽수와 다를 수 있습니다. 추출 본문은 OCR 인식 오류·표·수식의 배치 차이가 있을 수 있습니다. 최신 정책의 기준은 ‘올해 이슈’에서 함께 확인하세요.</p></section>';
+   main.innerHTML='<header class="rd-reader-heading">'+intro('내 읽기 자료',esc(bookTitle(book)),'이 화면에서 편하게 읽고, 필요한 개념을 떠올려 보세요.')+'</header><section class="rd-book-screen" data-reader-screen="book"><div class="actions"><button id="rdBooksBack">← 교재 목록</button><button data-rd-nav="learn">쉬운 수업으로</button></div><section class="panel rd-book-controls">'+chapterControl+'<p id="rdBookStatus" role="status">'+bookPage+' / '+book.pages+' · 본문을 불러오고 있어요.</p><details class="rd-reader-tools"><summary>쪽 이동 · 글자 크기 · 검색</summary><div class="toolbar"><label for="rdBookPage">'+(book.kind==='pdf'?'PDF 쪽수':'읽기 구간')+'<input id="rdBookPage" type="number" min="1" max="'+book.pages+'" value="'+bookPage+'"></label><button id="rdBookGo">이 쪽 읽기</button><button id="rdBookPrev" '+(bookPage===1?'disabled':'')+'>← 이전 쪽</button><button id="rdBookNext" '+(bookPage===book.pages?'disabled':'')+'>다음 쪽 →</button><label for="rdBookFont">글자 크기<select id="rdBookFont"><option value="18" '+(font===18?'selected':'')+'>보통</option><option value="22" '+(font===22?'selected':'')+'>크게</option><option value="26" '+(font===26?'selected':'')+'>더 크게</option></select></label></div><details><summary>이 책 안에서 찾기</summary><label for="rdInsideSearch">찾을 말<input id="rdInsideSearch" type="search" placeholder="예: 형성평가"></label><button id="rdInsideFind">책 안에서 찾기</button><div id="rdSearchResults" aria-live="polite"></div></details></details></section><article id="rdBookBody" class="panel rd-original" style="--rd-font:'+font+'px"><p>잠시만 기다려 주세요.</p></article><div class="rd-pager"><button id="rdBookPrevBottom" '+(bookPage===1?'disabled':'')+'>← 이전 쪽</button><button class="primary" id="rdBookNextBottom" '+(bookPage===book.pages?'disabled':'')+'>다음 쪽 읽기 →</button></div><p class="muted">PDF 번호는 인쇄 쪽수와 다를 수 있습니다. 추출 본문은 OCR 인식 오류·표·수식의 배치 차이가 있을 수 있습니다. 최신 정책의 기준은 ‘올해 이슈’에서 함께 확인하세요.</p></section>';
    loadPage();
   }
   function bookPositionKey(id){return 'edulab-book-page-'+id+(catalog.find(x=>x.id===id)?.kind==='html'?'-chapters-v2':'');}
@@ -305,11 +320,14 @@ window.EdulabFriends={create,validatePack};
    const ticket=++request,id=book.id,n=bookPage;bookLoading=true;
    try{
     const p=await rpc('getPrivateReaderPage',[id,n]);if(ticket!==request||!by('rdBookBody'))return;
-    if(book.preferImage&&p.image){
+    if(book.structuredReading&&Array.isArray(p.blocks)){
+     by('rdBookBody').innerHTML=readingBlocks(p.blocks)+sourceInfo(p);
+     if(by('rdImageZoom'))by('rdImageZoom').onchange=e=>{by('rdBookBody').querySelector('img').style.width=e.target.value+'%';by('rdBookBody').querySelector('img').style.maxWidth='none';};
+    }else if(book.preferImage&&p.image){
      by('rdBookBody').innerHTML='<h2>PDF '+n+' · 원문 표</h2><p>표의 글자와 별표를 원문 그대로 볼 수 있어요. 아래에서 확대하면 가로로 이동하며 읽을 수 있습니다.</p><label for="rdImageZoom">원문 확대<select id="rdImageZoom"><option value="100">화면에 맞게</option><option value="150">1.5배</option><option value="200">2배</option></select></label><div class="rd-image-wrap"><img class="rd-original-main-image" alt="'+esc(book.name)+' '+n+'쪽 원문" src="data:image/jpeg;base64,'+p.image+'"></div><details><summary>추출 글자로 검색·읽기 · OCR 오류 주의</summary><div class="rd-book-text">'+esc(p.text)+'</div></details>';
      by('rdImageZoom').onchange=e=>{by('rdBookBody').querySelector('img').style.width=e.target.value+'%';by('rdBookBody').querySelector('img').style.maxWidth='none';};
     }else by('rdBookBody').innerHTML='<h2>'+(book.kind==='pdf'?'PDF':'읽기 구간')+' '+n+'</h2>'+(p.text?.trim()?'<div class="rd-book-text">'+esc(p.text)+'</div>':'<p>이 쪽에서 읽을 본문이 추출되지 않았습니다. 표지·빈 쪽·그림 위주의 쪽일 수 있습니다. 다음 쪽이나 쉬운 수업을 읽어 주세요.</p>')+(p.image?'<details><summary>이 쪽의 원문 이미지 보기</summary><img class="rd-page-image" alt="'+esc(book.name)+' PDF '+n+'쪽 원문" src="data:image/jpeg;base64,'+p.image+'"></details>':'');
-    by('rdBookStatus').textContent=n+' / '+book.pages+' · '+(p.mode==='ocr'?'OCR로 읽은 본문':'페이지 본문');
+    by('rdBookStatus').textContent=n+' / '+book.pages+' · '+(book.structuredReading?'읽기 자료':p.mode==='ocr'?'OCR로 읽은 본문':'페이지 본문');
     try{localStorage.setItem(bookPositionKey(id),String(n));}catch{by('rdBookStatus').textContent+=' · 읽던 위치를 저장하지 못했어요.';}
    }catch(e){if(ticket!==request||!by('rdBookBody'))return;by('rdBookStatus').textContent='불러오지 못했어요.';by('rdBookBody').innerHTML='<p>'+esc(e.message)+'</p><button id="rdRetry">다시 불러오기</button>';by('rdRetry').onclick=loadPage;}
    finally{if(ticket===request)bookLoading=false;}
