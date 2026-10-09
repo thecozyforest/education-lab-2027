@@ -113,7 +113,7 @@ window.EdulabPolicyPrint={create(ctx){
  const list=xs=>'<ul>'+(xs||[]).map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>';
  const paragraphs=xs=>(xs||[]).map(x=>'<p>'+esc(x)+'</p>').join('');
  const school=l=>l==='secondary'?'중등 교육학':'초등 교직논술';
- const readable=x=>String(x||'').replace(/s\d+\((\d{4})\)/g,'$1년 공개 자료');
+ const readable=x=>String(x||'').replace(/s\d+\((\d{4})\)/g,'$1년 공개 자료').replace(/s\d+\s+및\s+s\d+/g,'시험 이전에 공개된 자료').replace(/\bs\d+\b/g,'기존 공개 자료');
  function studyYear(r){
   const exam=(r.level==='secondary'?D.secondary:D.primary).find(x=>x.year===r.academicYear);
   const training=r.level==='secondary'?D.training?.exams?.find(x=>x.year===r.academicYear):null;
