@@ -322,7 +322,7 @@ window.EdulabFriends={create,validatePack};
  'use strict';
  function create(ctx){
   const {D,main,esc,intro,tags,state,save,navigate,startTopic,openLesson,toast}=ctx;
-  const order=['administration','curriculum','instruction','technology','assessment','foundation','philosophy_history','psychology','sociology','counseling'];
+  const order=['assessment','administration','curriculum','instruction','technology','foundation','philosophy_history','psychology','sociology','counseling'];
   const domains=(D.lessons?.domains||[]).slice().sort((a,b)=>order.indexOf(a.id)-order.indexOf(b.id));
   const primers={
    administration:{title:'학교는 혼자 움직이지 않아요',story:'같은 학생을 가르치는 교사들이 제각각 다른 평가 기준을 쓰고 있다고 생각해 보세요. 어떤 반은 준비 과정을 보고, 어떤 반은 결과물만 봅니다. 학생들은 무엇을 준비해야 할지 헷갈리고, 교사들도 평가가 공정한지 설명하기 어렵습니다.',meaning:'교육행정은 학교의 사람이 함께 일하도록 목표·역할·의사결정·지원 방식을 만드는 일입니다. 학교장의 지도성, 교사들의 협력, 장학, 갈등 해결을 이 관점에서 배웁니다.',words:[['조직','같은 목적을 위해 역할을 나누고 함께 일하는 사람들의 모임입니다.'],['장학','교사가 수업을 개선하도록 돕는 활동입니다. 단순한 감시와 구별합니다.'],['전문적 학습공동체','교사들이 학생의 배움을 위해 수업을 함께 연구하고 실행·점검하는 모임입니다.']],lens:'문제에서 “학교 차원의 지원”, “교사들의 협력”, “학교장의 역할”을 묻는다면, 사람들이 함께 일하는 조건을 찾으세요.'},
