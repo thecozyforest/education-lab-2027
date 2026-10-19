@@ -2,10 +2,10 @@
   "items": [
     {
       "id": "9ad9ecdedbb7",
-      "name": "김현 마인드맵 표지.pdf",
-      "path": "김현 마인드맵 표지.pdf",
+      "name": "교육학 개념 지도",
+      "path": "9ad9ecdedbb7",
       "pages": 132,
-      "group": "김현",
+      "group": "개념 지도·핵심 용어",
       "status": "텍스트 색인",
       "topics": [
         "피드백",
@@ -41,16 +41,17 @@
           124
         ]
       },
-      "duplicates": [
-        "김현 마인드맵 표지_231015_224048.pdf"
-      ]
+      "duplicates": [],
+      "displayTitle": "교육학 개념 지도",
+      "displayGroup": "개념 지도·핵심 용어",
+      "readerId": "9ad9ecdedbb7"
     },
     {
       "id": "e159651557af",
-      "name": "김현 키위주스.pdf",
-      "path": "김현 키위주스.pdf",
+      "name": "교육학 핵심 용어 노트",
+      "path": "e159651557af",
       "pages": 116,
-      "group": "김현",
+      "group": "개념 지도·핵심 용어",
       "status": "텍스트 색인",
       "topics": [
         "장학",
@@ -100,25 +101,31 @@
           58
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육학 핵심 용어 노트",
+      "displayGroup": "개념 지도·핵심 용어",
+      "readerId": "e159651557af"
     },
     {
       "id": "84a42c8163ae",
-      "name": "원페이지 교육학 6판.pdf",
-      "path": "원페이지 교육학 6판.pdf",
+      "name": "교육학 통합 개념서",
+      "path": "6e506b8b45f4",
       "pages": 690,
-      "group": "원페이지",
+      "group": "통합 개념·인출 연습",
       "status": "이미지 자료 · OCR 필요",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육학 통합 개념서",
+      "displayGroup": "통합 개념·인출 연습",
+      "readerId": "6e506b8b45f4"
     },
     {
       "id": "ba8201934e0b",
-      "name": "원페이지 교육학 6판OCR 공부중_230806_133937 (1).pdf",
-      "path": "원페이지 교육학 6판OCR 공부중_230806_133937 (1).pdf",
+      "name": "통합 개념서 차례·쪽수 안내",
+      "path": "ba8201934e0b",
       "pages": 10,
-      "group": "원페이지",
+      "group": "통합 개념·인출 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -236,16 +243,17 @@
           9
         ]
       },
-      "duplicates": [
-        "원페이지 교육학 6판OCR 공부중_230806_133937.pdf"
-      ]
+      "duplicates": [],
+      "displayTitle": "통합 개념서 차례·쪽수 안내",
+      "displayGroup": "통합 개념·인출 연습",
+      "readerId": "ba8201934e0b"
     },
     {
       "id": "562e4d5eb7f4",
-      "name": "원페이지 교육학 6판OCR 공부중_230809_153554.pdf",
-      "path": "원페이지 교육학 6판OCR 공부중_230809_153554.pdf",
+      "name": "교육학 통합 개념서",
+      "path": "6e506b8b45f4",
       "pages": 690,
-      "group": "원페이지",
+      "group": "통합 개념·인출 연습",
       "status": "텍스트 색인",
       "topics": [
         "고교학점제",
@@ -1143,16 +1151,17 @@
           474
         ]
       },
-      "duplicates": [
-        "원페이지 교육학 6판OCR.pdf"
-      ]
+      "duplicates": [],
+      "displayTitle": "교육학 통합 개념서",
+      "displayGroup": "통합 개념·인출 연습",
+      "readerId": "6e506b8b45f4"
     },
     {
       "id": "632920748ce2",
-      "name": "원페이지 모의고사 표지.pdf",
-      "path": "원페이지 모의고사 표지.pdf",
+      "name": "교육학 종합 모의문제·해설",
+      "path": "632920748ce2",
       "pages": 326,
-      "group": "원페이지",
+      "group": "통합 개념·인출 연습",
       "status": "텍스트 색인",
       "topics": [
         "역행",
@@ -1254,14 +1263,17 @@
           312
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육학 종합 모의문제·해설",
+      "displayGroup": "통합 개념·인출 연습",
+      "readerId": "632920748ce2"
     },
     {
       "id": "0ad2dbf9ad2a",
-      "name": "원페이지 빈칸.pdf",
-      "path": "원페이지 빈칸.pdf",
+      "name": "교육학 빈칸 인출 연습",
+      "path": "0ad2dbf9ad2a",
       "pages": 510,
-      "group": "원페이지",
+      "group": "통합 개념·인출 연습",
       "status": "텍스트 색인",
       "topics": [
         "숙의",
@@ -1390,25 +1402,31 @@
           369
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육학 빈칸 인출 연습",
+      "displayGroup": "통합 개념·인출 연습",
+      "readerId": "0ad2dbf9ad2a"
     },
     {
       "id": "b35cfd66b078",
-      "name": "9-11월 모고 강의 계획표.pdf",
-      "path": "권지수\\9-11월 모고 강의 계획표.pdf",
+      "name": "모의연습 학습 일정",
+      "path": "b35cfd66b078",
       "pages": 1,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 자료 · OCR 필요",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 학습 일정",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "b35cfd66b078"
     },
     {
       "id": "3fe8f08b5573",
-      "name": "thinking map(세로).pdf",
-      "path": "권지수\\thinking map(세로).pdf",
+      "name": "개념 연결 지도 · 세로",
+      "path": "3fe8f08b5573",
       "pages": 18,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 18/18쪽 · 오인식 확인 필요",
       "topics": [
         "교육과정",
@@ -1524,14 +1542,17 @@
           16
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "개념 연결 지도 · 세로",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "3fe8f08b5573"
     },
     {
       "id": "dcdac1e42f57",
-      "name": "thinking mpa(가로).pdf",
-      "path": "권지수\\thinking mpa(가로).pdf",
+      "name": "개념 연결 지도 · 가로",
+      "path": "dcdac1e42f57",
       "pages": 16,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 16/16쪽 · 오인식 확인 필요",
       "topics": [
         "교육과정",
@@ -1643,25 +1664,31 @@
           12
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "개념 연결 지도 · 가로",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "dcdac1e42f57"
     },
     {
       "id": "e65c4fe509ab",
-      "name": "답안지.pdf",
-      "path": "권지수\\답안지.pdf",
+      "name": "답안지",
+      "path": "e65c4fe509ab",
       "pages": 2,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 자료 · OCR 필요",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "답안지",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "e65c4fe509ab"
     },
     {
       "id": "6c464f5ad1c2",
-      "name": "모고_답안_1회.pdf",
-      "path": "권지수\\모고_답안_1회.pdf",
+      "name": "모의연습 답안 1회",
+      "path": "6c464f5ad1c2",
       "pages": 16,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 16/16쪽 · 오인식 확인 필요",
       "topics": [
         "갈등",
@@ -1753,14 +1780,17 @@
           13
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 답안 1회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "6c464f5ad1c2"
     },
     {
       "id": "e5ce63b26eca",
-      "name": "모고_답안_2회.pdf",
-      "path": "권지수\\모고_답안_2회.pdf",
+      "name": "모의연습 답안 2회",
+      "path": "e5ce63b26eca",
       "pages": 14,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 14/14쪽 · 오인식 확인 필요",
       "topics": [
         "교육과정",
@@ -1844,14 +1874,17 @@
           13
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 답안 2회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "e5ce63b26eca"
     },
     {
       "id": "588a0e421335",
-      "name": "모고_답안_3회.pdf",
-      "path": "권지수\\모고_답안_3회.pdf",
+      "name": "모의연습 답안 3회",
+      "path": "588a0e421335",
       "pages": 18,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 18/18쪽 · 오인식 확인 필요",
       "topics": [
         "교육과정",
@@ -1929,14 +1962,17 @@
           16
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 답안 3회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "588a0e421335"
     },
     {
       "id": "7a09316310dc",
-      "name": "모고_답안_4회.pdf",
-      "path": "권지수\\모고_답안_4회.pdf",
+      "name": "모의연습 답안 4회",
+      "path": "7a09316310dc",
       "pages": 8,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 8/8쪽 · 오인식 확인 필요",
       "topics": [
         "동기",
@@ -1981,14 +2017,17 @@
           7
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 답안 4회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "7a09316310dc"
     },
     {
       "id": "f9861717b8b1",
-      "name": "모고_답안_5회.pdf",
-      "path": "권지수\\모고_답안_5회.pdf",
+      "name": "모의연습 답안 5회",
+      "path": "f9861717b8b1",
       "pages": 18,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 18/18쪽 · 오인식 확인 필요",
       "topics": [
         "공정",
@@ -2063,14 +2102,17 @@
           17
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 답안 5회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "f9861717b8b1"
     },
     {
       "id": "24a0729cc731",
-      "name": "모고_답안_6회.pdf",
-      "path": "권지수\\모고_답안_6회.pdf",
+      "name": "모의연습 답안 6회",
+      "path": "24a0729cc731",
       "pages": 10,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 10/10쪽 · 오인식 확인 필요",
       "topics": [
         "준거",
@@ -2116,14 +2158,17 @@
           9
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 답안 6회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "24a0729cc731"
     },
     {
       "id": "d0b4d0010aed",
-      "name": "모고_문제_1회.pdf",
-      "path": "권지수\\모고_문제_1회.pdf",
+      "name": "모의연습 문제 1회",
+      "path": "d0b4d0010aed",
       "pages": 2,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 2/2쪽 · 오인식 확인 필요",
       "topics": [
         "갈등",
@@ -2149,14 +2194,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 문제 1회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "d0b4d0010aed"
     },
     {
       "id": "dfbb90ec8de4",
-      "name": "모고_문제_2회.pdf",
-      "path": "권지수\\모고_문제_2회.pdf",
+      "name": "모의연습 문제 2회",
+      "path": "dfbb90ec8de4",
       "pages": 2,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 2/2쪽 · 오인식 확인 필요",
       "topics": [
         "교육과정",
@@ -2182,14 +2230,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 문제 2회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "dfbb90ec8de4"
     },
     {
       "id": "6a61e14e0f99",
-      "name": "모고_문제_3회.pdf",
-      "path": "권지수\\모고_문제_3회.pdf",
+      "name": "모의연습 문제 3회",
+      "path": "6a61e14e0f99",
       "pages": 2,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 2/2쪽 · 오인식 확인 필요",
       "topics": [
         "교육과정",
@@ -2215,14 +2266,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 문제 3회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "6a61e14e0f99"
     },
     {
       "id": "9f473cd85d80",
-      "name": "모고_문제_4회.pdf",
-      "path": "권지수\\모고_문제_4회.pdf",
+      "name": "모의연습 문제 4회",
+      "path": "9f473cd85d80",
       "pages": 2,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 2/2쪽 · 오인식 확인 필요",
       "topics": [
         "동기",
@@ -2236,14 +2290,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 문제 4회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "9f473cd85d80"
     },
     {
       "id": "818dff51a0c5",
-      "name": "모고_문제_5회.pdf",
-      "path": "권지수\\모고_문제_5회.pdf",
+      "name": "모의연습 문제 5회",
+      "path": "818dff51a0c5",
       "pages": 2,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 2/2쪽 · 오인식 확인 필요",
       "topics": [
         "공정",
@@ -2265,14 +2322,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 문제 5회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "818dff51a0c5"
     },
     {
       "id": "0810f9cd8e1f",
-      "name": "모고_문제_6회.pdf",
-      "path": "권지수\\모고_문제_6회.pdf",
+      "name": "모의연습 문제 6회",
+      "path": "0810f9cd8e1f",
       "pages": 2,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 2/2쪽 · 오인식 확인 필요",
       "topics": [
         "준거",
@@ -2286,14 +2346,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 문제 6회",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "0810f9cd8e1f"
     },
     {
       "id": "a1aeb08f4c38",
-      "name": "요점쏙쏙_교육과정학.pdf",
-      "path": "권지수\\요점쏙쏙_교육과정학.pdf",
+      "name": "교육과정 핵심 정리",
+      "path": "a1aeb08f4c38",
       "pages": 28,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 28/28쪽 · 오인식 확인 필요",
       "topics": [
         "교육과정",
@@ -2392,14 +2455,17 @@
           27
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 핵심 정리",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "a1aeb08f4c38"
     },
     {
       "id": "967c1533df4c",
-      "name": "요점쏙쏙_교육방법론.pdf",
-      "path": "권지수\\요점쏙쏙_교육방법론.pdf",
+      "name": "교수학습·교육공학 핵심 정리",
+      "path": "967c1533df4c",
       "pages": 50,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 50/50쪽 · 오인식 확인 필요",
       "topics": [
         "교육공학",
@@ -2574,14 +2640,17 @@
           45
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습·교육공학 핵심 정리",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "967c1533df4c"
     },
     {
       "id": "f97be3436dce",
-      "name": "요점쏙쏙_교육심리학.pdf",
-      "path": "권지수\\요점쏙쏙_교육심리학.pdf",
+      "name": "교육심리 핵심 정리",
+      "path": "f97be3436dce",
       "pages": 46,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 46/46쪽 · 오인식 확인 필요",
       "topics": [
         "동기",
@@ -2741,14 +2810,17 @@
           41
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 핵심 정리",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "f97be3436dce"
     },
     {
       "id": "a90530d57688",
-      "name": "요점쏙쏙_교육평가.pdf",
-      "path": "권지수\\요점쏙쏙_교육평가.pdf",
+      "name": "교육평가 핵심 정리",
+      "path": "a90530d57688",
       "pages": 28,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 28/28쪽 · 오인식 확인 필요",
       "topics": [
         "교육평가",
@@ -2902,14 +2974,17 @@
           20
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 핵심 정리",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "a90530d57688"
     },
     {
       "id": "09c0e98665bf",
-      "name": "요점쏙쏙_교육행정.pdf",
-      "path": "권지수\\요점쏙쏙_교육행정.pdf",
+      "name": "교육행정 핵심 정리",
+      "path": "09c0e98665bf",
       "pages": 42,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 42/42쪽 · 오인식 확인 필요",
       "topics": [
         "교육행정",
@@ -3068,14 +3143,17 @@
           40
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 핵심 정리",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "09c0e98665bf"
     },
     {
       "id": "214c76b2eb62",
-      "name": "요점쏙쏙_생활지도와 상담.pdf",
-      "path": "권지수\\요점쏙쏙_생활지도와 상담.pdf",
+      "name": "생활지도와 상담 핵심 정리",
+      "path": "214c76b2eb62",
       "pages": 24,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 24/24쪽 · 오인식 확인 필요",
       "topics": [
         "상담",
@@ -3134,14 +3212,17 @@
           11
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "생활지도와 상담 핵심 정리",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "214c76b2eb62"
     },
     {
       "id": "b54be83d7fbf",
-      "name": "주요 쟁점 체크.pdf",
-      "path": "권지수\\주요 쟁점 체크.pdf",
+      "name": "주요 쟁점 체크",
+      "path": "b54be83d7fbf",
       "pages": 12,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 12/12쪽 · 오인식 확인 필요",
       "topics": [
         "교육과정",
@@ -3252,14 +3333,17 @@
           9
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "주요 쟁점 체크",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "b54be83d7fbf"
     },
     {
       "id": "fd7e4e3a9c00",
-      "name": "학생 대표 첨삭_2회, 3회.pdf",
-      "path": "권지수\\학생 대표 첨삭_2회, 3회.pdf",
+      "name": "논술 답안 피드백 사례",
+      "path": "fd7e4e3a9c00",
       "pages": 8,
-      "group": "권지수",
+      "group": "단원 정리·모의연습",
       "status": "이미지 OCR 8/8쪽 · 오인식 확인 필요",
       "topics": [
         "교육과정"
@@ -3269,14 +3353,17 @@
           5
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "논술 답안 피드백 사례",
+      "displayGroup": "단원 정리·모의연습",
+      "readerId": "fd7e4e3a9c00"
     },
     {
       "id": "a957ca326468",
-      "name": "04 인간은 에이전트가 아니다 쉽게 읽기.pdf",
-      "path": "맥키교수님\\04 인간은 에이전트가 아니다 쉽게 읽기.pdf",
+      "name": "AI와 학습자 주도성",
+      "path": "a957ca326468",
       "pages": 18,
-      "group": "맥키 교수님",
+      "group": "학교 현장·교육 이슈",
       "status": "텍스트 색인",
       "topics": [
         "자기조절"
@@ -3286,14 +3373,17 @@
           16
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "AI와 학습자 주도성",
+      "displayGroup": "학교 현장·교육 이슈",
+      "readerId": "a957ca326468"
     },
     {
       "id": "dd02a080c3ed",
-      "name": "[AI Insight Column Spin-Off 2]_딸깍의 성공은학습의 성공이 아닙니다..pdf",
-      "path": "맥키교수님\\[AI Insight Column Spin-Off 2]_딸깍의 성공은학습의 성공이 아닙니다..pdf",
+      "name": "AI 활용과 실제 학습",
+      "path": "dd02a080c3ed",
       "pages": 7,
-      "group": "맥키 교수님",
+      "group": "학교 현장·교육 이슈",
       "status": "텍스트 색인",
       "topics": [
         "갈등",
@@ -3308,14 +3398,17 @@
           6
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "AI 활용과 실제 학습",
+      "displayGroup": "학교 현장·교육 이슈",
+      "readerId": "dd02a080c3ed"
     },
     {
       "id": "73a2ff1d3568",
-      "name": "장님이 코끼리 만지는 에듀테크 정책을 언제까지 계속 랄 것인가.pdf",
-      "path": "맥키교수님\\장님이 코끼리 만지는 에듀테크 정책을 언제까지 계속 랄 것인가.pdf",
+      "name": "에듀테크 정책 읽기",
+      "path": "73a2ff1d3568",
       "pages": 9,
-      "group": "맥키 교수님",
+      "group": "학교 현장·교육 이슈",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -3339,14 +3432,17 @@
           7
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "에듀테크 정책 읽기",
+      "displayGroup": "학교 현장·교육 이슈",
+      "readerId": "73a2ff1d3568"
     },
     {
       "id": "de7c7ab42610",
-      "name": "AI시대의_교수설계.html",
-      "path": "맥키교수님\\AI시대의_교수설계.html",
+      "name": "AI 시대의 수업 설계",
+      "path": "de7c7ab42610",
       "pages": 0,
-      "group": "맥키 교수님",
+      "group": "학교 현장·교육 이슈",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -3380,14 +3476,17 @@
         "책무성": 9,
         "공정": 14
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "AI 시대의 수업 설계",
+      "displayGroup": "학교 현장·교육 이슈",
+      "readerId": "de7c7ab42610"
     },
     {
       "id": "4de17693983e",
-      "name": "교직실무.html",
-      "path": "맥키교수님\\교직실무.html",
+      "name": "학교 실무와 교사 전문성",
+      "path": "4de17693983e",
       "pages": 0,
-      "group": "맥키 교수님",
+      "group": "학교 현장·교육 이슈",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -3439,14 +3538,17 @@
         "공정": 19,
         "교육격차": 1
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "학교 실무와 교사 전문성",
+      "displayGroup": "학교 현장·교육 이슈",
+      "readerId": "4de17693983e"
     },
     {
       "id": "1ee65b39c6fc",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.22-04교육과정-교육과정 설계 모형(내용,목표,과정).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.22-04교육과정-교육과정 설계 모형(내용,목표,과정).pdf",
+      "name": "교육과정 · 교육과정 설계 모형(내용,목표,과정)",
+      "path": "1ee65b39c6fc",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -3465,36 +3567,45 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 교육과정 설계 모형(내용,목표,과정)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "1ee65b39c6fc"
     },
     {
       "id": "6e4f233724b8",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.23-02교육심리-교육연구-질적 연구 vs 양적 연구(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.23-02교육심리-교육연구-질적 연구 vs 양적 연구(1).pdf",
+      "name": "교육심리 · 교육연구 · 질적 연구 vs 양적 연구 · 연습 1",
+      "path": "6e4f233724b8",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 교육연구 · 질적 연구 vs 양적 연구 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "6e4f233724b8"
     },
     {
       "id": "5daa18051e9f",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.24-02(1)교육심리-교육연구-표집방법의 종류(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.24-02(1)교육심리-교육연구-표집방법의 종류(1).pdf",
+      "name": "교육심리 · 교육연구 · 표집방법의 종류 · 연습 1",
+      "path": "5daa18051e9f",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 교육연구 · 표집방법의 종류 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "5daa18051e9f"
     },
     {
       "id": "ccd006cf3e17",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.24-02(2)교육심리-교육연구-표집오차(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.24-02(2)교육심리-교육연구-표집오차(2).pdf",
+      "name": "교육심리 · 교육연구 · 표집오차 · 연습 2",
+      "path": "ccd006cf3e17",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -3509,14 +3620,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 교육연구 · 표집오차 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "ccd006cf3e17"
     },
     {
       "id": "b6c7b36c40fb",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.25(1)-02교육심리-교육연구-실험연구의 타당도(1)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.25(1)-02교육심리-교육연구-실험연구의 타당도(1)-최종.pdf",
+      "name": "교육심리 · 교육연구 · 실험연구의 타당도 · 연습 1",
+      "path": "b6c7b36c40fb",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도"
@@ -3527,14 +3641,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 교육연구 · 실험연구의 타당도 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "b6c7b36c40fb"
     },
     {
       "id": "0c50b0c94092",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.25(2)-02교육심리-교육연구-실험연구의 타당도, 호손효과(인간관계론)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.25(2)-02교육심리-교육연구-실험연구의 타당도, 호손효과(인간관계론)(2).pdf",
+      "name": "교육심리 · 교육연구 · 실험연구의 타당도, 호손효과(인간관계론) · 연습 2",
+      "path": "0c50b0c94092",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -3557,14 +3674,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 교육연구 · 실험연구의 타당도, 호손효과(인간관계론) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "0c50b0c94092"
     },
     {
       "id": "feee17fc312d",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.26-02교육심리-교육연구-실험연구의 타당도(내적 타당도), T검증-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.26-02교육심리-교육연구-실험연구의 타당도(내적 타당도), T검증-최종.pdf",
+      "name": "교육심리 · 교육연구 · 실험연구의 타당도(내적 타당도), T검증",
+      "path": "feee17fc312d",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도"
@@ -3575,14 +3695,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 교육연구 · 실험연구의 타당도(내적 타당도), T검증",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "feee17fc312d"
     },
     {
       "id": "5a02deb7ac36",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.29(1)-08교육행정-지도성 이론-피들러의 상황적 지도성(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.29(1)-08교육행정-지도성 이론-피들러의 상황적 지도성(1).pdf",
+      "name": "교육행정 · 지도성 이론 · 피들러의 상황적 지도성 · 연습 1",
+      "path": "5a02deb7ac36",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -3602,14 +3725,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 피들러의 상황적 지도성 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "5a02deb7ac36"
     },
     {
       "id": "539113b3efd1",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.29(2)-08교육행정-지도성 이론-허시와 블랜차드의 상황적 지도성(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.29(2)-08교육행정-지도성 이론-허시와 블랜차드의 상황적 지도성(2).pdf",
+      "name": "교육행정 · 지도성 이론 · 허시와 블랜차드의 상황적 지도성 · 연습 2",
+      "path": "539113b3efd1",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -3625,14 +3751,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 허시와 블랜차드의 상황적 지도성 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "539113b3efd1"
     },
     {
       "id": "49ad0dd05e7e",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.30-08교육행정-지도성 이론-커와 저미어의 리더십 대용 상황 모형.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.30-08교육행정-지도성 이론-커와 저미어의 리더십 대용 상황 모형.pdf",
+      "name": "교육행정 · 지도성 이론 · 커와 저미어의 리더십 대용 상황 모형",
+      "path": "49ad0dd05e7e",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -3651,14 +3780,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 커와 저미어의 리더십 대용 상황 모형",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "49ad0dd05e7e"
     },
     {
       "id": "69bc0411efc2",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.01-08교육행정-지도성 이론-맨즈의 초우량 지도성, 아지리스의 미성숙-성숙이론.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.01-08교육행정-지도성 이론-맨즈의 초우량 지도성, 아지리스의 미성숙-성숙이론.pdf",
+      "name": "교육행정 · 지도성 이론 · 맨즈의 초우량 지도성, 아지리스의 미성숙 · 성숙이론",
+      "path": "69bc0411efc2",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "자기조절",
@@ -3681,14 +3813,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 맨즈의 초우량 지도성, 아지리스의 미성숙 · 성숙이론",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "69bc0411efc2"
     },
     {
       "id": "8780ba8b7ac6",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.02-08교육행정-지도성 이론-서지오나니의 문화적 지도성.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.02-08교육행정-지도성 이론-서지오나니의 문화적 지도성.pdf",
+      "name": "교육행정 · 지도성 이론 · 서지오나니의 문화적 지도성",
+      "path": "8780ba8b7ac6",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "지도성",
@@ -3711,14 +3846,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 서지오나니의 문화적 지도성",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "8780ba8b7ac6"
     },
     {
       "id": "29fe2928db48",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.03-08교육행정-지도성 이론-분산적 지도성.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.03-08교육행정-지도성 이론-분산적 지도성.pdf",
+      "name": "교육행정 · 지도성 이론 · 분산적 지도성",
+      "path": "29fe2928db48",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "학습조직",
@@ -3741,14 +3879,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 분산적 지도성",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "29fe2928db48"
     },
     {
       "id": "50ebae326eac",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.06-08교육행정-지도성 이론-골먼의 감성 지도성.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.06-08교육행정-지도성 이론-골먼의 감성 지도성.pdf",
+      "name": "교육행정 · 지도성 이론 · 골먼의 감성 지도성",
+      "path": "50ebae326eac",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "자기조절",
@@ -3772,14 +3913,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 골먼의 감성 지도성",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "50ebae326eac"
     },
     {
       "id": "8ec3196f665c",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.07-08교육행정-동기이론-로크의 목표설정 이론.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.07-08교육행정-동기이론-로크의 목표설정 이론.pdf",
+      "name": "교육행정 · 동기이론 · 로크의 목표설정 이론",
+      "path": "8ec3196f665c",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "피드백",
@@ -3795,14 +3939,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 동기이론 · 로크의 목표설정 이론",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "8ec3196f665c"
     },
     {
       "id": "9cc812629f25",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.08(1)-08교육행정-동기이론-허즈버그의 동기위생이론(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.08(1)-08교육행정-동기이론-허즈버그의 동기위생이론(1).pdf",
+      "name": "교육행정 · 동기이론 · 허즈버그의 동기위생이론 · 연습 1",
+      "path": "9cc812629f25",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "숙의",
@@ -3821,14 +3968,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 동기이론 · 허즈버그의 동기위생이론 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "9cc812629f25"
     },
     {
       "id": "1220ff597315",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.08(2)-08교육행정-동기이론-허즈버그의 동기위생이론(직무확장)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.08(2)-08교육행정-동기이론-허즈버그의 동기위생이론(직무확장)(2).pdf",
+      "name": "교육행정 · 동기이론 · 허즈버그의 동기위생이론(직무확장) · 연습 2",
+      "path": "1220ff597315",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -3843,14 +3993,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 동기이론 · 허즈버그의 동기위생이론(직무확장) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "1220ff597315"
     },
     {
       "id": "90c6800c90bf",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.09(1)-08교육행정-동기이론-브롬의 기대이론(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.09(1)-08교육행정-동기이론-브롬의 기대이론(1).pdf",
+      "name": "교육행정 · 동기이론 · 브롬의 기대이론 · 연습 1",
+      "path": "90c6800c90bf",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기"
@@ -3861,14 +4014,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 동기이론 · 브롬의 기대이론 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "90c6800c90bf"
     },
     {
       "id": "5bd0bb88f909",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.09(2)-08교육행정-동기이론-브롬의 기대이론, 아담스의 공정성 이론(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.09(2)-08교육행정-동기이론-브롬의 기대이론, 아담스의 공정성 이론(2).pdf",
+      "name": "교육행정 · 동기이론 · 브롬의 기대이론, 아담스의 공정성 이론 · 연습 2",
+      "path": "5bd0bb88f909",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -3884,14 +4040,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 동기이론 · 브롬의 기대이론, 아담스의 공정성 이론 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "5bd0bb88f909"
     },
     {
       "id": "223ce91c46e3",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.10-08교육행정-동기이론-앨더퍼의 ERG 이론.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.10-08교육행정-동기이론-앨더퍼의 ERG 이론.pdf",
+      "name": "교육행정 · 동기이론 · 앨더퍼의 ERG 이론",
+      "path": "223ce91c46e3",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기"
@@ -3902,14 +4061,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 동기이론 · 앨더퍼의 ERG 이론",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "223ce91c46e3"
     },
     {
       "id": "a8717c0b805e",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.13-00-교육학 기출-2013년 상반기-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.13-00-교육학 기출-2013년 상반기-최종.pdf",
+      "name": "교육학 기출 · 2013년 상반기",
+      "path": "a8717c0b805e",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -3924,16 +4086,17 @@
           2
         ]
       },
-      "duplicates": [
-        "윤승현 3줄 교육학_매메세-2019.05.13-00-교육학 기출-2013년 상반기-최종.pdf"
-      ]
+      "duplicates": [],
+      "displayTitle": "교육학 기출 · 2013년 상반기",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a8717c0b805e"
     },
     {
       "id": "f7c75903c637",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.14-00-교육학 기출-2014힉년도-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.14-00-교육학 기출-2014힉년도-최종.pdf",
+      "name": "교육학 기출 · 2014힉년도",
+      "path": "f7c75903c637",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -3972,16 +4135,17 @@
           2
         ]
       },
-      "duplicates": [
-        "윤승현 3줄 교육학_매메세-2019.05.14-00-교육학 기출-2014힉년도-최종.pdf"
-      ]
+      "duplicates": [],
+      "displayTitle": "교육학 기출 · 2014힉년도",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "f7c75903c637"
     },
     {
       "id": "8f3977d800da",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.15-00-교육학 기출-2014년 상반기-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.15-00-교육학 기출-2014년 상반기-최종.pdf",
+      "name": "교육학 기출 · 2014년 상반기",
+      "path": "8f3977d800da",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4001,16 +4165,17 @@
           2
         ]
       },
-      "duplicates": [
-        "윤승현 3줄 교육학_매메세-2019.05.15-00-교육학 기출-2014년 상반기-최종.pdf"
-      ]
+      "duplicates": [],
+      "displayTitle": "교육학 기출 · 2014년 상반기",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "8f3977d800da"
     },
     {
       "id": "73ba7845fcbd",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.16-00-교육학 기출-2015학년도-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.16-00-교육학 기출-2015학년도-최종.pdf",
+      "name": "교육학 기출 · 2015학년도",
+      "path": "73ba7845fcbd",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4035,16 +4200,17 @@
           2
         ]
       },
-      "duplicates": [
-        "윤승현 3줄 교육학_매메세-2019.05.16-00-교육학 기출-2015학년도-최종.pdf"
-      ]
+      "duplicates": [],
+      "displayTitle": "교육학 기출 · 2015학년도",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "73ba7845fcbd"
     },
     {
       "id": "a8fb507d73fd",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.17-00-교육학 기출-2015년 상반기-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.17-00-교육학 기출-2015년 상반기-최종.pdf",
+      "name": "교육학 기출 · 2015년 상반기",
+      "path": "a8fb507d73fd",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "준거",
@@ -4063,16 +4229,17 @@
           2
         ]
       },
-      "duplicates": [
-        "윤승현 3줄 교육학_매메세-2019.05.17-00-교육학 기출-2015년 상반기-최종.pdf"
-      ]
+      "duplicates": [],
+      "displayTitle": "교육학 기출 · 2015년 상반기",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a8fb507d73fd"
     },
     {
       "id": "e156653e3656",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.20-00-교육학 기출-2016학년도-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.20-00-교육학 기출-2016학년도-최종.pdf",
+      "name": "교육학 기출 · 2016학년도",
+      "path": "e156653e3656",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4097,14 +4264,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육학 기출 · 2016학년도",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "e156653e3656"
     },
     {
       "id": "1d90dc82569e",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.21-00-교육학 기출-2017학년도-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.21-00-교육학 기출-2017학년도-최종.pdf",
+      "name": "교육학 기출 · 2017학년도",
+      "path": "1d90dc82569e",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4124,14 +4294,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육학 기출 · 2017학년도",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "1d90dc82569e"
     },
     {
       "id": "2bc153df1c3d",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.22-00-교육학 기출-2018학년도-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.22-00-교육학 기출-2018학년도-최종.pdf",
+      "name": "교육학 기출 · 2018학년도",
+      "path": "2bc153df1c3d",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4164,14 +4337,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육학 기출 · 2018학년도",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "2bc153df1c3d"
     },
     {
       "id": "eedbc6330af6",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.23-00-교육학 기출-2019학년도-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.23-00-교육학 기출-2019학년도-최종.pdf",
+      "name": "교육학 기출 · 2019학년도",
+      "path": "eedbc6330af6",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4214,14 +4390,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육학 기출 · 2019학년도",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "eedbc6330af6"
     },
     {
       "id": "f949c7b63965",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.24-00-교육학 4월 진단모의고사.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.24-00-교육학 4월 진단모의고사.pdf",
+      "name": "교육학 4월 진단모의고사",
+      "path": "f949c7b63965",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4246,14 +4425,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육학 4월 진단모의고사",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "f949c7b63965"
     },
     {
       "id": "1ee6a65293a8",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.27-01교육의 이해-한국교육사-교육의 목적(위기지학,위인지학)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.27-01교육의 이해-한국교육사-교육의 목적(위기지학,위인지학)-최종.pdf",
+      "name": "교육의 이해 · 한국교육사 · 교육의 목적(위기지학,위인지학)",
+      "path": "1ee6a65293a8",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4267,14 +4449,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육의 이해 · 한국교육사 · 교육의 목적(위기지학,위인지학)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "1ee6a65293a8"
     },
     {
       "id": "30d6b4a350aa",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.28(1)-01교육의 이해-한국교육사-소학대학계제론,대학,거경궁리(1)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.28(1)-01교육의 이해-한국교육사-소학대학계제론,대학,거경궁리(1)-최종.pdf",
+      "name": "교육의 이해 · 한국교육사 · 소학대학계제론,대학,거경궁리 · 연습 1",
+      "path": "30d6b4a350aa",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정"
@@ -4285,14 +4470,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육의 이해 · 한국교육사 · 소학대학계제론,대학,거경궁리 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "30d6b4a350aa"
     },
     {
       "id": "3e05dcfce595",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.28(2)-01교육의 이해-한국교육사-이황의 거경궁리(2)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.28(2)-01교육의 이해-한국교육사-이황의 거경궁리(2)-최종.pdf",
+      "name": "교육의 이해 · 한국교육사 · 이황의 거경궁리 · 연습 2",
+      "path": "3e05dcfce595",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4306,14 +4494,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육의 이해 · 한국교육사 · 이황의 거경궁리 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "3e05dcfce595"
     },
     {
       "id": "61fb6d333785",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.29(1)-08교육행정-의사(정책)결정모형-수정하기-(1)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.29(1)-08교육행정-의사(정책)결정모형-수정하기-(1)-최종.pdf",
+      "name": "교육행정 · 의사(정책)결정모형 · 수정하기 · 연습 1",
+      "path": "61fb6d333785",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4327,14 +4518,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 의사(정책)결정모형 · 수정하기 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "61fb6d333785"
     },
     {
       "id": "44a7906f934a",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.29(2)-08교육행정-의사(정책)결정모형(2)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.29(2)-08교육행정-의사(정책)결정모형(2)-최종.pdf",
+      "name": "교육행정 · 의사(정책)결정모형 · 연습 2",
+      "path": "44a7906f934a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4349,14 +4543,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 의사(정책)결정모형 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "44a7906f934a"
     },
     {
       "id": "2847bd175fbb",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.30(1)-08교육행정-교육행정의 관점-공권설,기능설,경영설(1)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.30(1)-08교육행정-교육행정의 관점-공권설,기능설,경영설(1)-최종.pdf",
+      "name": "교육행정 · 교육행정의 관점 · 공권설,기능설,경영설 · 연습 1",
+      "path": "2847bd175fbb",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4376,14 +4573,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 교육행정의 관점 · 공권설,기능설,경영설 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "2847bd175fbb"
     },
     {
       "id": "7f5719ae3c60",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.30(2)-08교육행정-교육행정의 관점-공권설,기능설(2)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.30(2)-08교육행정-교육행정의 관점-공권설,기능설(2)-최종.pdf",
+      "name": "교육행정 · 교육행정의 관점 · 공권설,기능설 · 연습 2",
+      "path": "7f5719ae3c60",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4401,14 +4601,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 교육행정의 관점 · 공권설,기능설 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "7f5719ae3c60"
     },
     {
       "id": "5e15e5832fbb",
-      "name": "윤승현 3줄 교육학_매메세-2019.05.31-08교육행정-교육행정의 관점(개념)-교육지도성설-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.05.31-08교육행정-교육행정의 관점(개념)-교육지도성설-최종.pdf",
+      "name": "교육행정 · 교육행정의 관점(개념) · 교육지도성설",
+      "path": "5e15e5832fbb",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4427,14 +4630,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 교육행정의 관점(개념) · 교육지도성설",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "5e15e5832fbb"
     },
     {
       "id": "eae6466ce7e7",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.03-08(1)교육행정-교육행정의 이론(과학적 관리론,인간관계론,행동과학론)(1)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.03-08(1)교육행정-교육행정의 이론(과학적 관리론,인간관계론,행동과학론)(1)-최종.pdf",
+      "name": "교육행정 · 교육행정의 이론(과학적 관리론,인간관계론,행동과학론) · 연습 1",
+      "path": "eae6466ce7e7",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4461,14 +4667,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 교육행정의 이론(과학적 관리론,인간관계론,행동과학론) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "eae6466ce7e7"
     },
     {
       "id": "dbaef4758d0a",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.03-08(2)교육행정-교육행정의 이론(과학적 관리론,인간관계론)(2)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.03-08(2)교육행정-교육행정의 이론(과학적 관리론,인간관계론)(2)-최종.pdf",
+      "name": "교육행정 · 교육행정의 이론(과학적 관리론,인간관계론) · 연습 2",
+      "path": "dbaef4758d0a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4497,14 +4706,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 교육행정의 이론(과학적 관리론,인간관계론) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "dbaef4758d0a"
     },
     {
       "id": "c1a1bf36c480",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.04-08교육행정-교육행정의 이론(과학적 관리론,인간관계론)-공통점-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.04-08교육행정-교육행정의 이론(과학적 관리론,인간관계론)-공통점-최종.pdf",
+      "name": "교육행정 · 교육행정의 이론(과학적 관리론,인간관계론) · 공통점",
+      "path": "c1a1bf36c480",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4532,14 +4744,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 교육행정의 이론(과학적 관리론,인간관계론) · 공통점",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "c1a1bf36c480"
     },
     {
       "id": "2e11bfb14188",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.05-08교육행정-교사의 의무-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.05-08교육행정-교사의 의무-최종.pdf",
+      "name": "교육행정 · 교사의 의무",
+      "path": "2e11bfb14188",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4553,14 +4768,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 교사의 의무",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "2e11bfb14188"
     },
     {
       "id": "cea4ea6edbe1",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.06-08교육행정-교육재정-교육재정 운영의 원리-최종(수정).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.06-08교육행정-교육재정-교육재정 운영의 원리-최종(수정).pdf",
+      "name": "교육행정 · 교육재정 · 교육재정 운영의 원리 · 최종(수정)",
+      "path": "cea4ea6edbe1",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4578,14 +4796,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 교육재정 · 교육재정 운영의 원리 · 최종(수정)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "cea4ea6edbe1"
     },
     {
       "id": "2d57dd106af7",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.07-08교육행정-학교조직의 유형-전문적 관료제, 조직된 무질서-최종(수정).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.07-08교육행정-학교조직의 유형-전문적 관료제, 조직된 무질서-최종(수정).pdf",
+      "name": "교육행정 · 학교조직의 유형 · 전문적 관료제, 조직된 무질서 · 최종(수정)",
+      "path": "2d57dd106af7",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4604,14 +4825,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 학교조직의 유형 · 전문적 관료제, 조직된 무질서 · 최종(수정)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "2d57dd106af7"
     },
     {
       "id": "4f57a896796b",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.10-07교육사회학-뒤르껨의 사회화이론,슐츠의 인간자본론,알뛰세의 이데올로기론.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.10-07교육사회학-뒤르껨의 사회화이론,슐츠의 인간자본론,알뛰세의 이데올로기론.pdf",
+      "name": "교육사회학 · 뒤르껨의 사회화이론,슐츠의 인간자본론,알뛰세의 이데올로기론",
+      "path": "4f57a896796b",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4625,14 +4849,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 뒤르껨의 사회화이론,슐츠의 인간자본론,알뛰세의 이데올로기론",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "4f57a896796b"
     },
     {
       "id": "c58af9e7c65a",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.11-07교육사회학-사회화(드리븐의 학교규범론).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.11-07교육사회학-사회화(드리븐의 학교규범론).pdf",
+      "name": "교육사회학 · 사회화(드리븐의 학교규범론)",
+      "path": "c58af9e7c65a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4647,14 +4874,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 사회화(드리븐의 학교규범론)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "c58af9e7c65a"
     },
     {
       "id": "05e32aab3f52",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.12-07교육사회학-갈등론-알뛰세의 이데올로기론(자본주의 국가론).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.12-07교육사회학-갈등론-알뛰세의 이데올로기론(자본주의 국가론).pdf",
+      "name": "교육사회학 · 갈등론 · 알뛰세의 이데올로기론(자본주의 국가론)",
+      "path": "05e32aab3f52",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4668,14 +4898,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 갈등론 · 알뛰세의 이데올로기론(자본주의 국가론)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "05e32aab3f52"
     },
     {
       "id": "83a51e767033",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.13-07교육사회학-구교육사회학_신교육사회학(쿨리의 거울자아이론).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.13-07교육사회학-구교육사회학_신교육사회학(쿨리의 거울자아이론).pdf",
+      "name": "교육사회학 · 구교육사회학_신교육사회학(쿨리의 거울자아이론)",
+      "path": "83a51e767033",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4690,14 +4923,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 구교육사회학_신교육사회학(쿨리의 거울자아이론)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "83a51e767033"
     },
     {
       "id": "273cce8e3f8a",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.14-07교육사회학-포르의 학습사회, 들로의 학습의 4가지 기둥.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.14-07교육사회학-포르의 학습사회, 들로의 학습의 4가지 기둥.pdf",
+      "name": "교육사회학 · 포르의 학습사회, 들로의 학습의 4가지 기둥",
+      "path": "273cce8e3f8a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "장학"
@@ -4707,14 +4943,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 포르의 학습사회, 들로의 학습의 4가지 기둥",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "273cce8e3f8a"
     },
     {
       "id": "1844ffac76f8",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.17-07교육사회학-결과적 평등, 부르디외의 상징적 폭력.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.17-07교육사회학-결과적 평등, 부르디외의 상징적 폭력.pdf",
+      "name": "교육사회학 · 결과적 평등, 부르디외의 상징적 폭력",
+      "path": "1844ffac76f8",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4728,14 +4967,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 결과적 평등, 부르디외의 상징적 폭력",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "1844ffac76f8"
     },
     {
       "id": "67cf077a93f0",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.18(1)-07교육사회학-학업성취 격차의 원인(기능주의, 상징적 상호작용, 문화다원론)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.18(1)-07교육사회학-학업성취 격차의 원인(기능주의, 상징적 상호작용, 문화다원론)(1).pdf",
+      "name": "교육사회학 · 학업성취 격차의 원인(기능주의, 상징적 상호작용, 문화다원론) · 연습 1",
+      "path": "67cf077a93f0",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4760,14 +5002,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 학업성취 격차의 원인(기능주의, 상징적 상호작용, 문화다원론) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "67cf077a93f0"
     },
     {
       "id": "a58b582cd381",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.18(2)-07교육사회학-학습부진(교육사회학 + 블룸의 적성)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.18(2)-07교육사회학-학습부진(교육사회학 + 블룸의 적성)(2).pdf",
+      "name": "교육사회학 · 학습부진(교육사회학 + 블룸의 적성) · 연습 2",
+      "path": "a58b582cd381",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4791,14 +5036,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 학습부진(교육사회학 + 블룸의 적성) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a58b582cd381"
     },
     {
       "id": "c4ca1332fb7e",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.19-07교육사회학-학업성취 격차의 원인(젠크스, 번스타인, 콜맨).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.19-07교육사회학-학업성취 격차의 원인(젠크스, 번스타인, 콜맨).pdf",
+      "name": "교육사회학 · 학업성취 격차의 원인(젠크스, 번스타인, 콜맨)",
+      "path": "c4ca1332fb7e",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "갈등",
@@ -4821,14 +5069,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 학업성취 격차의 원인(젠크스, 번스타인, 콜맨)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "c4ca1332fb7e"
     },
     {
       "id": "b3ab5f0e18c5",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.20-07교육사회학-학업성취의 학교 외적 원인(콜맨의 가정자본).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.20-07교육사회학-학업성취의 학교 외적 원인(콜맨의 가정자본).pdf",
+      "name": "교육사회학 · 학업성취의 학교 외적 원인(콜맨의 가정자본)",
+      "path": "b3ab5f0e18c5",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육격차",
@@ -4842,14 +5093,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 학업성취의 학교 외적 원인(콜맨의 가정자본)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "b3ab5f0e18c5"
     },
     {
       "id": "193b1d653f01",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.21-07교육사회학-학업성취 격차의 원인 - 브루코버의 학교풍토론.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.21-07교육사회학-학업성취 격차의 원인 - 브루코버의 학교풍토론.pdf",
+      "name": "교육사회학 · 학업성취 격차의 원인  ·  브루코버의 학교풍토론",
+      "path": "193b1d653f01",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -4863,25 +5117,31 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육사회학 · 학업성취 격차의 원인  ·  브루코버의 학교풍토론",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "193b1d653f01"
     },
     {
       "id": "b9ed143d1397",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.00-매메세 O.T.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.00-매메세 O.T.pdf",
+      "name": "사례 연습 시작 안내",
+      "path": "b9ed143d1397",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "사례 연습 시작 안내",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "b9ed143d1397"
     },
     {
       "id": "4746e75273f4",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.18-02교육심리-인지주의-정보처리이론-학습전략(시험을 통한 인출,분산학습).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.18-02교육심리-인지주의-정보처리이론-학습전략(시험을 통한 인출,분산학습).pdf",
+      "name": "교육심리 · 인지주의 · 정보처리이론 · 학습전략(시험을 통한 인출,분산학습)",
+      "path": "4746e75273f4",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "메타인지",
@@ -4896,14 +5156,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 정보처리이론 · 학습전략(시험을 통한 인출,분산학습)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "4746e75273f4"
     },
     {
       "id": "0e0240247285",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.19-02교육심리-인지주의-복잡한 인지과정(문제해결-IDEAL)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.19-02교육심리-인지주의-복잡한 인지과정(문제해결-IDEAL)(1).pdf",
+      "name": "교육심리 · 인지주의 · 복잡한 인지과정(문제해결 · IDEAL) · 연습 1",
+      "path": "0e0240247285",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "메타인지"
@@ -4913,14 +5176,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 복잡한 인지과정(문제해결 · IDEAL) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "0e0240247285"
     },
     {
       "id": "f80cd99b157d",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.19-02교육심리-인지주의-복잡한 인지과정(문제해결-문제표상,도식활성화)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.19-02교육심리-인지주의-복잡한 인지과정(문제해결-문제표상,도식활성화)(2).pdf",
+      "name": "교육심리 · 인지주의 · 복잡한 인지과정(문제해결 · 문제표상,도식활성화) · 연습 2",
+      "path": "f80cd99b157d",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "메타인지"
@@ -4930,25 +5196,31 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 복잡한 인지과정(문제해결 · 문제표상,도식활성화) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "f80cd99b157d"
     },
     {
       "id": "6b1190f68bc0",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.20-02교육심리-인지주의-복잡한 인지과정(문제해결-발견법-유추-정교화).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.20-02교육심리-인지주의-복잡한 인지과정(문제해결-발견법-유추-정교화).pdf",
+      "name": "교육심리 · 인지주의 · 복잡한 인지과정(문제해결 · 발견법 · 유추 · 정교화)",
+      "path": "6b1190f68bc0",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 복잡한 인지과정(문제해결 · 발견법 · 유추 · 정교화)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "6b1190f68bc0"
     },
     {
       "id": "5e8d40e56247",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.21-02교육심리-인지주의-정보처리이론(장기기억에 저장되는 지식의 종류).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.21-02교육심리-인지주의-정보처리이론(장기기억에 저장되는 지식의 종류).pdf",
+      "name": "교육심리 · 인지주의 · 정보처리이론(장기기억에 저장되는 지식의 종류)",
+      "path": "5e8d40e56247",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "자기조절",
@@ -4964,14 +5236,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 정보처리이론(장기기억에 저장되는 지식의 종류)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "5e8d40e56247"
     },
     {
       "id": "cf2adc690084",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.22-02교육심리-인지주의-정보처리이론(메타인지)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.22-02교육심리-인지주의-정보처리이론(메타인지)(1).pdf",
+      "name": "교육심리 · 인지주의 · 정보처리이론(메타인지) · 연습 1",
+      "path": "cf2adc690084",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "메타인지",
@@ -4986,14 +5261,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 정보처리이론(메타인지) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "cf2adc690084"
     },
     {
       "id": "6b8f90543504",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.22-02교육심리-인지주의-정보처리이론(메타인지)-전교1등(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.22-02교육심리-인지주의-정보처리이론(메타인지)-전교1등(2).pdf",
+      "name": "교육심리 · 인지주의 · 정보처리이론(메타인지) · 전교1등 · 연습 2",
+      "path": "6b8f90543504",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "메타인지",
@@ -5008,14 +5286,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 정보처리이론(메타인지) · 전교1등 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "6b8f90543504"
     },
     {
       "id": "7a268278eed2",
-      "name": "2019년 윤승현 3줄 교육학 6월 전국모의고사-문제-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\2019년 윤승현 3줄 교육학 6월 전국모의고사-문제-최종.pdf",
+      "name": "6월 전국모의고사-문제",
+      "path": "7a268278eed2",
       "pages": 3,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5041,14 +5322,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "6월 전국모의고사-문제",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "7a268278eed2"
     },
     {
       "id": "f30a6ad9c49d",
-      "name": "2019년 윤승현 3줄 교육학 6월 전국모의고사-해설-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\2019년 윤승현 3줄 교육학 6월 전국모의고사-해설-최종.pdf",
+      "name": "6월 전국모의고사-해설",
+      "path": "f30a6ad9c49d",
       "pages": 20,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5146,14 +5430,17 @@
           14
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "6월 전국모의고사-해설",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "f30a6ad9c49d"
     },
     {
       "id": "b63571969455",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.24-06교육평가-평가도구의 양호도(결과타당도).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.24-06교육평가-평가도구의 양호도(결과타당도).pdf",
+      "name": "교육평가 · 평가도구의 양호도(결과타당도)",
+      "path": "b63571969455",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -5189,14 +5476,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 평가도구의 양호도(결과타당도)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "b63571969455"
     },
     {
       "id": "45ca837a1980",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.25-06교육평가-평가도구의 양호도(구인타당도)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.25-06교육평가-평가도구의 양호도(구인타당도)-최종.pdf",
+      "name": "교육평가 · 평가도구의 양호도(구인타당도)",
+      "path": "45ca837a1980",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -5211,14 +5501,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 평가도구의 양호도(구인타당도)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "45ca837a1980"
     },
     {
       "id": "b06df96061b9",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.26-06교육평가-평가도구의 양호도(신뢰도의 종류-검사재검사 신뢰도, 동형검사 신뢰도).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.26-06교육평가-평가도구의 양호도(신뢰도의 종류-검사재검사 신뢰도, 동형검사 신뢰도).pdf",
+      "name": "교육평가 · 평가도구의 양호도(신뢰도의 종류 · 검사재검사 신뢰도, 동형검사 신뢰도)",
+      "path": "b06df96061b9",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5233,14 +5526,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 평가도구의 양호도(신뢰도의 종류 · 검사재검사 신뢰도, 동형검사 신뢰도)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "b06df96061b9"
     },
     {
       "id": "4f248af19d04",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.27-02교육심리-지능검사(문화공평성 검사-다문화검사체제, 카우프만 지능검사).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.27-02교육심리-지능검사(문화공평성 검사-다문화검사체제, 카우프만 지능검사).pdf",
+      "name": "교육심리 · 지능검사(문화공평성 검사 · 다문화검사체제, 카우프만 지능검사)",
+      "path": "4f248af19d04",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "다문화",
@@ -5260,14 +5556,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 지능검사(문화공평성 검사 · 다문화검사체제, 카우프만 지능검사)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "4f248af19d04"
     },
     {
       "id": "79eec506762a",
-      "name": "윤승현 3줄 교육학_매메세-2019.06.28-02교육심리-지능검사-CAS(인지적 검사 체제), PASS.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.06.28-02교육심리-지능검사-CAS(인지적 검사 체제), PASS.pdf",
+      "name": "교육심리 · 지능검사 · CAS(인지적 검사 체제), PASS",
+      "path": "79eec506762a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "메타인지",
@@ -5290,25 +5589,31 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 지능검사 · CAS(인지적 검사 체제), PASS",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "79eec506762a"
     },
     {
       "id": "2350f471035a",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.25-02교육심리-인지주의-복잡한 인지과정(문제해결)-통찰문제(선택적 부호화, 결합, 비교)(~.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.25-02교육심리-인지주의-복잡한 인지과정(문제해결)-통찰문제(선택적 부호화, 결합, 비교)(~.pdf",
+      "name": "교육심리 · 인지주의 · 복잡한 인지과정(문제해결) · 통찰문제(선택적 부호화, 결합, 비교)(~",
+      "path": "2350f471035a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 복잡한 인지과정(문제해결) · 통찰문제(선택적 부호화, 결합, 비교)(~",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "2350f471035a"
     },
     {
       "id": "b971d2535605",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.25-02교육심리-인지주의-형태주의-쾰러의 통찰학습(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.25-02교육심리-인지주의-형태주의-쾰러의 통찰학습(2).pdf",
+      "name": "교육심리 · 인지주의 · 형태주의 · 쾰러의 통찰학습 · 연습 2",
+      "path": "b971d2535605",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정"
@@ -5318,14 +5623,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 형태주의 · 쾰러의 통찰학습 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "b971d2535605"
     },
     {
       "id": "16f22c4ad3f8",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.26-02교육심리-개인차-지능이론-스턴버그의 삼원지능(분석적 지능)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.26-02교육심리-개인차-지능이론-스턴버그의 삼원지능(분석적 지능)(1).pdf",
+      "name": "교육심리 · 개인차 · 지능이론 · 스턴버그의 삼원지능(분석적 지능) · 연습 1",
+      "path": "16f22c4ad3f8",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "피드백"
@@ -5335,36 +5643,45 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 개인차 · 지능이론 · 스턴버그의 삼원지능(분석적 지능) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "16f22c4ad3f8"
     },
     {
       "id": "ed7eb42898b8",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.26-02교육심리-개인차-지능이론-스턴버그의 삼원지능(실천적 지능)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.26-02교육심리-개인차-지능이론-스턴버그의 삼원지능(실천적 지능)(2).pdf",
+      "name": "교육심리 · 개인차 · 지능이론 · 스턴버그의 삼원지능(실천적 지능) · 연습 2",
+      "path": "ed7eb42898b8",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 개인차 · 지능이론 · 스턴버그의 삼원지능(실천적 지능) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "ed7eb42898b8"
     },
     {
       "id": "0532b6a31139",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.27-02교육심리-인지주의-복잡한 인지과정-개념학습(규칙,예제)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.27-02교육심리-인지주의-복잡한 인지과정-개념학습(규칙,예제)(1).pdf",
+      "name": "교육심리 · 인지주의 · 복잡한 인지과정 · 개념학습(규칙,예제) · 연습 1",
+      "path": "0532b6a31139",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 복잡한 인지과정 · 개념학습(규칙,예제) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "0532b6a31139"
     },
     {
       "id": "9aa4c0817efa",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.27-02교육심리-인지주의-복잡한 인지과정-개념학습(연역,귀납,사례)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.27-02교육심리-인지주의-복잡한 인지과정-개념학습(연역,귀납,사례)(2).pdf",
+      "name": "교육심리 · 인지주의 · 복잡한 인지과정 · 개념학습(연역,귀납,사례) · 연습 2",
+      "path": "9aa4c0817efa",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정"
@@ -5374,14 +5691,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 인지주의 · 복잡한 인지과정 · 개념학습(연역,귀납,사례) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "9aa4c0817efa"
     },
     {
       "id": "f43acac9df6f",
-      "name": "윤승현 3줄 교육학_매메세-2019.02.28-05교수학습-라이겔루스의 교수의 3대 변인(조직전략-개념학습).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.02.28-05교수학습-라이겔루스의 교수의 3대 변인(조직전략-개념학습).pdf",
+      "name": "교수학습 · 라이겔루스의 교수의 3대 변인(조직전략 · 개념학습)",
+      "path": "f43acac9df6f",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "피드백",
@@ -5397,14 +5717,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 라이겔루스의 교수의 3대 변인(조직전략 · 개념학습)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "f43acac9df6f"
     },
     {
       "id": "16ed5f51dc28",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.01-05교수학습-구성주의 수업-포스너의 개념변화학습.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.01-05교수학습-구성주의 수업-포스너의 개념변화학습.pdf",
+      "name": "교수학습 · 구성주의 수업 · 포스너의 개념변화학습",
+      "path": "16ed5f51dc28",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5418,14 +5741,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 구성주의 수업 · 포스너의 개념변화학습",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "16ed5f51dc28"
     },
     {
       "id": "4abc70270fec",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.04-05교수학습-인지주의-가네의 목표별 수업이론(수업목표,학습과제 분석)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.04-05교수학습-인지주의-가네의 목표별 수업이론(수업목표,학습과제 분석)(2).pdf",
+      "name": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업목표,학습과제 분석) · 연습 2",
+      "path": "4abc70270fec",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "형성평가",
@@ -5439,14 +5765,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업목표,학습과제 분석) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "4abc70270fec"
     },
     {
       "id": "d565d9c32e78",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.04-05교수학습-인지주의-가네의 목표별 수업이론(수업목표,학습과제분석)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.04-05교수학습-인지주의-가네의 목표별 수업이론(수업목표,학습과제분석)(1).pdf",
+      "name": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업목표,학습과제분석) · 연습 1",
+      "path": "d565d9c32e78",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -5465,14 +5794,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업목표,학습과제분석) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "d565d9c32e78"
     },
     {
       "id": "2ef228665285",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.05-05교수학습-인지주의-가네의 목표별 수업이론(수업목표,수업사태)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.05-05교수학습-인지주의-가네의 목표별 수업이론(수업목표,수업사태)(1).pdf",
+      "name": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업목표,수업사태) · 연습 1",
+      "path": "2ef228665285",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "피드백",
@@ -5496,14 +5828,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업목표,수업사태) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "2ef228665285"
     },
     {
       "id": "4637c295fadd",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.05-05교수학습-인지주의-가네의 목표별 수업이론(수업목표,수업사태)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.05-05교수학습-인지주의-가네의 목표별 수업이론(수업목표,수업사태)(2).pdf",
+      "name": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업목표,수업사태) · 연습 2",
+      "path": "4637c295fadd",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "수행평가",
@@ -5532,14 +5867,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업목표,수업사태) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "4637c295fadd"
     },
     {
       "id": "9576cff70e54",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.06-05교수학습-인지주의-가네의 목표별 수업이론(수업사태)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.06-05교수학습-인지주의-가네의 목표별 수업이론(수업사태)(1).pdf",
+      "name": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업사태) · 연습 1",
+      "path": "9576cff70e54",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5557,14 +5895,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업사태) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "9576cff70e54"
     },
     {
       "id": "fcfff85d16b7",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.06-05교수학습-인지주의-가네의 목표별 수업이론(수업사태)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.06-05교수학습-인지주의-가네의 목표별 수업이론(수업사태)(2).pdf",
+      "name": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업사태) · 연습 2",
+      "path": "fcfff85d16b7",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "수행평가",
@@ -5588,14 +5929,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 인지주의 · 가네의 목표별 수업이론(수업사태) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "fcfff85d16b7"
     },
     {
       "id": "ac9a88f5d6be",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.07-05교수학습-가네의 목표별 수업이론, 메릴의 내용요소 제시이론(수업목표)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.07-05교수학습-가네의 목표별 수업이론, 메릴의 내용요소 제시이론(수업목표)(1).pdf",
+      "name": "교수학습 · 가네의 목표별 수업이론, 메릴의 내용요소 제시이론(수업목표) · 연습 1",
+      "path": "ac9a88f5d6be",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기"
@@ -5606,14 +5950,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 가네의 목표별 수업이론, 메릴의 내용요소 제시이론(수업목표) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "ac9a88f5d6be"
     },
     {
       "id": "9afb410cd9ee",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.07-05교수학습-인지주의-메릴의 내용요소제시이론(수업목표,수업방법)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.07-05교수학습-인지주의-메릴의 내용요소제시이론(수업목표,수업방법)(2).pdf",
+      "name": "교수학습 · 인지주의 · 메릴의 내용요소제시이론(수업목표,수업방법) · 연습 2",
+      "path": "9afb410cd9ee",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "피드백"
@@ -5623,14 +5970,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 인지주의 · 메릴의 내용요소제시이론(수업목표,수업방법) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "9afb410cd9ee"
     },
     {
       "id": "879a53d66b88",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.08-04교육과정-2015 개정 교육과정-핵심개념(지식의 구조).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.08-04교육과정-2015 개정 교육과정-핵심개념(지식의 구조).pdf",
+      "name": "교육과정 · 2015 개정 교육과정 · 핵심개념(지식의 구조)",
+      "path": "879a53d66b88",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5649,14 +5999,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 2015 개정 교육과정 · 핵심개념(지식의 구조)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "879a53d66b88"
     },
     {
       "id": "89629e4060c6",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.11-04교육과정-학문중심교육과정(브루너의 지식의 구조의 장점)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.11-04교육과정-학문중심교육과정(브루너의 지식의 구조의 장점)(1).pdf",
+      "name": "교육과정 · 학문중심교육과정(브루너의 지식의 구조의 장점) · 연습 1",
+      "path": "89629e4060c6",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5671,14 +6024,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 학문중심교육과정(브루너의 지식의 구조의 장점) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "89629e4060c6"
     },
     {
       "id": "92c20b555677",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.11-05교수학습-브루너의 수업이론(발견학습, 4가지 요소)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.11-05교수학습-브루너의 수업이론(발견학습, 4가지 요소)(2).pdf",
+      "name": "교수학습 · 브루너의 수업이론(발견학습, 4가지 요소) · 연습 2",
+      "path": "92c20b555677",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5693,25 +6049,31 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 브루너의 수업이론(발견학습, 4가지 요소) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "92c20b555677"
     },
     {
       "id": "10b9990aa043",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.12-05교수학습-브루너의 수업이론(발견학습, 직관적 사고)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.12-05교수학습-브루너의 수업이론(발견학습, 직관적 사고)(1).pdf",
+      "name": "교수학습 · 브루너의 수업이론(발견학습, 직관적 사고) · 연습 1",
+      "path": "10b9990aa043",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 브루너의 수업이론(발견학습, 직관적 사고) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "10b9990aa043"
     },
     {
       "id": "e7693183e2b2",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.12-05교수학습-브루너의 수업이론(발견학습의 장던점)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.12-05교수학습-브루너의 수업이론(발견학습의 장던점)(2).pdf",
+      "name": "교수학습 · 브루너의 수업이론(발견학습의 장던점) · 연습 2",
+      "path": "e7693183e2b2",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5727,14 +6089,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 브루너의 수업이론(발견학습의 장던점) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "e7693183e2b2"
     },
     {
       "id": "d34ff19bc711",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.13-05교수학습-수업목표(메이거),오수벨의 유의미수용학습(선행조직자)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.13-05교수학습-수업목표(메이거),오수벨의 유의미수용학습(선행조직자)(1).pdf",
+      "name": "교수학습 · 수업목표(메이거),오수벨의 유의미수용학습(선행조직자) · 연습 1",
+      "path": "d34ff19bc711",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5753,25 +6118,31 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 수업목표(메이거),오수벨의 유의미수용학습(선행조직자) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "d34ff19bc711"
     },
     {
       "id": "1c998b50482b",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.13-05교수학습-오수벨의 유의미수용학습(선행조직자의 종류)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.13-05교수학습-오수벨의 유의미수용학습(선행조직자의 종류)(2).pdf",
+      "name": "교수학습 · 오수벨의 유의미수용학습(선행조직자의 종류) · 연습 2",
+      "path": "1c998b50482b",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 오수벨의 유의미수용학습(선행조직자의 종류) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "1c998b50482b"
     },
     {
       "id": "a4faf873eba7",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.14-05교수학습-오수벨의 유의미수용학습(포섭의 종류)(!).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.14-05교수학습-오수벨의 유의미수용학습(포섭의 종류)(!).pdf",
+      "name": "교수학습 · 오수벨의 유의미수용학습(포섭의 종류)(!)",
+      "path": "a4faf873eba7",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "준거"
@@ -5781,14 +6152,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 오수벨의 유의미수용학습(포섭의 종류)(!)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a4faf873eba7"
     },
     {
       "id": "74a3e1ff86b2",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.14-05교수학습-오수벨의 유의미수용학습(포섭의 종류)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.14-05교수학습-오수벨의 유의미수용학습(포섭의 종류)(2).pdf",
+      "name": "교수학습 · 오수벨의 유의미수용학습(포섭의 종류) · 연습 2",
+      "path": "74a3e1ff86b2",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "준거"
@@ -5798,14 +6172,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 오수벨의 유의미수용학습(포섭의 종류) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "74a3e1ff86b2"
     },
     {
       "id": "3da5a5d853c4",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.15-05교수학습-오수벨의 유의미수용학습(관련 정착 아이디어,포섭,선생조직자)(3).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.15-05교수학습-오수벨의 유의미수용학습(관련 정착 아이디어,포섭,선생조직자)(3).pdf",
+      "name": "교수학습 · 오수벨의 유의미수용학습(관련 정착 아이디어,포섭,선생조직자) · 연습 3",
+      "path": "3da5a5d853c4",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "준거"
@@ -5815,25 +6192,31 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 오수벨의 유의미수용학습(관련 정착 아이디어,포섭,선생조직자) · 연습 3",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "3da5a5d853c4"
     },
     {
       "id": "26ad6a8aa1e4",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.15-05교수학습-오수벨의 유의미수용학습(조건, 선행조직자)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.15-05교수학습-오수벨의 유의미수용학습(조건, 선행조직자)(1).pdf",
+      "name": "교수학습 · 오수벨의 유의미수용학습(조건, 선행조직자) · 연습 1",
+      "path": "26ad6a8aa1e4",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 오수벨의 유의미수용학습(조건, 선행조직자) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "26ad6a8aa1e4"
     },
     {
       "id": "2850e245d344",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.15-05교수학습-오수벨의 유의미수용학습(포섭,수업모형)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.15-05교수학습-오수벨의 유의미수용학습(포섭,수업모형)(2).pdf",
+      "name": "교수학습 · 오수벨의 유의미수용학습(포섭,수업모형) · 연습 2",
+      "path": "2850e245d344",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "준거"
@@ -5843,14 +6226,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 오수벨의 유의미수용학습(포섭,수업모형) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "2850e245d344"
     },
     {
       "id": "055c317da81c",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.18-01교육의 이해-한국교육사-조선시대 교육과정(소학대학계제론).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.18-01교육의 이해-한국교육사-조선시대 교육과정(소학대학계제론).pdf",
+      "name": "교육의 이해 · 한국교육사 · 조선시대 교육과정(소학대학계제론)",
+      "path": "055c317da81c",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정"
@@ -5861,14 +6247,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육의 이해 · 한국교육사 · 조선시대 교육과정(소학대학계제론)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "055c317da81c"
     },
     {
       "id": "629a6927d5c8",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.19-01교육의 이해-서양국교육사-루소의 자연주의(소극적 교육).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.19-01교육의 이해-서양국교육사-루소의 자연주의(소극적 교육).pdf",
+      "name": "교육의 이해 · 서양국교육사 · 루소의 자연주의(소극적 교육)",
+      "path": "629a6927d5c8",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기"
@@ -5879,14 +6268,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육의 이해 · 서양국교육사 · 루소의 자연주의(소극적 교육)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "629a6927d5c8"
     },
     {
       "id": "b4b7a122715e",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.20-04교육과정-교육과정 결정의 기초(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.20-04교육과정-교육과정 결정의 기초(1).pdf",
+      "name": "교육과정 · 교육과정 결정의 기초 · 연습 1",
+      "path": "b4b7a122715e",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5906,14 +6298,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 교육과정 결정의 기초 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "b4b7a122715e"
     },
     {
       "id": "db881ea86e7b",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.20-04교육과정-교육과정 설계 모형,교육목표 설정의 3가지 자원(타일러)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.20-04교육과정-교육과정 설계 모형,교육목표 설정의 3가지 자원(타일러)(2).pdf",
+      "name": "교육과정 · 교육과정 설계 모형,교육목표 설정의 3가지 자원(타일러) · 연습 2",
+      "path": "db881ea86e7b",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5942,14 +6337,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 교육과정 설계 모형,교육목표 설정의 3가지 자원(타일러) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "db881ea86e7b"
     },
     {
       "id": "485783f4e86e",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.21-04교육과정-교육목표 설정 시 고려 준거(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.21-04교육과정-교육목표 설정 시 고려 준거(1).pdf",
+      "name": "교육과정 · 교육목표 설정 시 고려 준거 · 연습 1",
+      "path": "485783f4e86e",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5970,14 +6368,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 교육목표 설정 시 고려 준거 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "485783f4e86e"
     },
     {
       "id": "dd8149613b9a",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.21-04교육과정-타일러의 잠정적 교육목표의 거름체(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.21-04교육과정-타일러의 잠정적 교육목표의 거름체(2).pdf",
+      "name": "교육과정 · 타일러의 잠정적 교육목표의 거름체 · 연습 2",
+      "path": "dd8149613b9a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -5997,14 +6398,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 타일러의 잠정적 교육목표의 거름체 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "dd8149613b9a"
     },
     {
       "id": "32684aa9ba3b",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.22-05교수학습-수업목표(정의적 영역).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.22-05교수학습-수업목표(정의적 영역).pdf",
+      "name": "교수학습 · 수업목표(정의적 영역)",
+      "path": "32684aa9ba3b",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타일러"
@@ -6014,14 +6418,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교수학습 · 수업목표(정의적 영역)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "32684aa9ba3b"
     },
     {
       "id": "d476e9f5b050",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.25-06교육평가-정의적 행동특성 평가(질문법, 리커트척도, 관찰법, 체크리스트, 의미분석법, 투사법).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.25-06교육평가-정의적 행동특성 평가(질문법, 리커트척도, 관찰법, 체크리스트, 의미분석법, 투사법).pdf",
+      "name": "교육평가 · 정의적 행동특성 평가(질문법, 리커트척도, 관찰법, 체크리스트, 의미분석법, 투사법)",
+      "path": "d476e9f5b050",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정"
@@ -6031,14 +6438,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 정의적 행동특성 평가(질문법, 리커트척도, 관찰법, 체크리스트, 의미분석법, 투사법)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "d476e9f5b050"
     },
     {
       "id": "856e06ec1895",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.26-06교육평가-정의적 능력 평가의 활용.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.26-06교육평가-정의적 능력 평가의 활용.pdf",
+      "name": "교육평가 · 정의적 능력 평가의 활용",
+      "path": "856e06ec1895",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6058,14 +6468,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 정의적 능력 평가의 활용",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "856e06ec1895"
     },
     {
       "id": "e9de14240503",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.27-06교육평가-정의적 능력 평가-고려사항(중립화, 허위반응),리커드 척도(2)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.27-06교육평가-정의적 능력 평가-고려사항(중립화, 허위반응),리커드 척도(2)-최종.pdf",
+      "name": "교육평가 · 정의적 능력 평가 · 고려사항(중립화, 허위반응),리커드 척도 · 연습 2",
+      "path": "e9de14240503",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -6079,25 +6492,31 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 정의적 능력 평가 · 고려사항(중립화, 허위반응),리커드 척도 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "e9de14240503"
     },
     {
       "id": "1894f43d61ad",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.27-06교육평가-정의적 능력 평가-종류-의미분석법(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.27-06교육평가-정의적 능력 평가-종류-의미분석법(1).pdf",
+      "name": "교육평가 · 정의적 능력 평가 · 종류 · 의미분석법 · 연습 1",
+      "path": "1894f43d61ad",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 정의적 능력 평가 · 종류 · 의미분석법 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "1894f43d61ad"
     },
     {
       "id": "7afda4d0ba5d",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.28-06교육평가-타당도의 종류(내용, 공인, 결과)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.28-06교육평가-타당도의 종류(내용, 공인, 결과)(2).pdf",
+      "name": "교육평가 · 타당도의 종류(내용, 공인, 결과) · 연습 2",
+      "path": "7afda4d0ba5d",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -6121,14 +6540,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 타당도의 종류(내용, 공인, 결과) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "7afda4d0ba5d"
     },
     {
       "id": "f7afab610b53",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.28-06교육평가-타당도의 종류(내용,구인,공인,예언)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.28-06교육평가-타당도의 종류(내용,구인,공인,예언)(1).pdf",
+      "name": "교육평가 · 타당도의 종류(내용,구인,공인,예언) · 연습 1",
+      "path": "f7afab610b53",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "준거",
@@ -6152,14 +6574,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 타당도의 종류(내용,구인,공인,예언) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "f7afab610b53"
     },
     {
       "id": "611be75437e1",
-      "name": "윤승현 3줄 교육학_매메세-2019.03.29-06교육평가-타당도의 종류(인성,적성,학업성취도검사).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.03.29-06교육평가-타당도의 종류(인성,적성,학업성취도검사).pdf",
+      "name": "교육평가 · 타당도의 종류(인성,적성,학업성취도검사)",
+      "path": "611be75437e1",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "준거",
@@ -6183,14 +6608,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 타당도의 종류(인성,적성,학업성취도검사)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "611be75437e1"
     },
     {
       "id": "078a9dd23a6d",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.01-06교육평가-타당도의 종류(내용타당도)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.01-06교육평가-타당도의 종류(내용타당도)-최종.pdf",
+      "name": "교육평가 · 타당도의 종류(내용타당도)",
+      "path": "078a9dd23a6d",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -6213,14 +6641,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 타당도의 종류(내용타당도)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "078a9dd23a6d"
     },
     {
       "id": "c12324ffd401",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.02-06교육평가-타당도의 종류-구인타당도1.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.02-06교육평가-타당도의 종류-구인타당도1.pdf",
+      "name": "교육평가 · 타당도의 종류 · 구인타당도1",
+      "path": "c12324ffd401",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도"
@@ -6231,14 +6662,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 타당도의 종류 · 구인타당도1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "c12324ffd401"
     },
     {
       "id": "a941aa0c4f7a",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.02-06교육평가-타당도의 종류-구인타당도2.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.02-06교육평가-타당도의 종류-구인타당도2.pdf",
+      "name": "교육평가 · 타당도의 종류 · 구인타당도2",
+      "path": "a941aa0c4f7a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도"
@@ -6249,14 +6683,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 타당도의 종류 · 구인타당도2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a941aa0c4f7a"
     },
     {
       "id": "7ce76972a880",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.03-06교육평가-타당도의 종류(총평관,구인타당도,예언타당도).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.03-06교육평가-타당도의 종류(총평관,구인타당도,예언타당도).pdf",
+      "name": "교육평가 · 타당도의 종류(총평관,구인타당도,예언타당도)",
+      "path": "7ce76972a880",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6289,14 +6726,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 타당도의 종류(총평관,구인타당도,예언타당도)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "7ce76972a880"
     },
     {
       "id": "429cf96f125a",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.04(1)-06교육평가-타당도의 종류(공인타당도)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.04(1)-06교육평가-타당도의 종류(공인타당도)(1).pdf",
+      "name": "교육평가 · 타당도의 종류(공인타당도) · 연습 1",
+      "path": "429cf96f125a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "준거",
@@ -6316,14 +6756,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 타당도의 종류(공인타당도) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "429cf96f125a"
     },
     {
       "id": "ee5759006b3f",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.04(2)-06교육평가-타당도의 종류(공인,구인타당도)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.04(2)-06교육평가-타당도의 종류(공인,구인타당도)(2).pdf",
+      "name": "교육평가 · 타당도의 종류(공인,구인타당도) · 연습 2",
+      "path": "ee5759006b3f",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -6346,14 +6789,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 타당도의 종류(공인,구인타당도) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "ee5759006b3f"
     },
     {
       "id": "e5ee95907928",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.05(1)-06교육심리-개인차-지능이론-다중지능-(2019학년도 논점1)(1)-최종.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.05(1)-06교육심리-개인차-지능이론-다중지능-(2019학년도 논점1)(1)-최종.pdf",
+      "name": "교육심리 · 개인차 · 지능이론 · 다중지능 · (2019학년도 논점1) · 연습 1",
+      "path": "e5ee95907928",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6375,25 +6821,31 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 개인차 · 지능이론 · 다중지능 · (2019학년도 논점1) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "e5ee95907928"
     },
     {
       "id": "d39d4d771110",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.05(2)-06교육심리-개인차-지능이론-양요인설,유동성_결정성 지능, 다중지능(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.05(2)-06교육심리-개인차-지능이론-양요인설,유동성_결정성 지능, 다중지능(2).pdf",
+      "name": "교육심리 · 개인차 · 지능이론 · 양요인설,유동성_결정성 지능, 다중지능 · 연습 2",
+      "path": "d39d4d771110",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 개인차 · 지능이론 · 양요인설,유동성_결정성 지능, 다중지능 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "d39d4d771110"
     },
     {
       "id": "ef6d20e2342e",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.05(3)-06교육심리-개인차-지능이론-다중지능의 종류(3).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.05(3)-06교육심리-개인차-지능이론-다중지능의 종류(3).pdf",
+      "name": "교육심리 · 개인차 · 지능이론 · 다중지능의 종류 · 연습 3",
+      "path": "ef6d20e2342e",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6412,14 +6864,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 개인차 · 지능이론 · 다중지능의 종류 · 연습 3",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "ef6d20e2342e"
     },
     {
       "id": "f04b22c85f19",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.05(4)-06교육심리-개인차-지능이론-다중지능(특징, 학교교육)(4).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.05(4)-06교육심리-개인차-지능이론-다중지능(특징, 학교교육)(4).pdf",
+      "name": "교육심리 · 개인차 · 지능이론 · 다중지능(특징, 학교교육) · 연습 4",
+      "path": "f04b22c85f19",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6438,14 +6893,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 개인차 · 지능이론 · 다중지능(특징, 학교교육) · 연습 4",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "f04b22c85f19"
     },
     {
       "id": "f8600310a497",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.05(5)-06교육심리-개인차-지능이론-심심리측정적 지능 vs 가드너의 다중지능(5).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.05(5)-06교육심리-개인차-지능이론-심심리측정적 지능 vs 가드너의 다중지능(5).pdf",
+      "name": "교육심리 · 개인차 · 지능이론 · 심심리측정적 지능 vs 가드너의 다중지능 · 연습 5",
+      "path": "f8600310a497",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "수행평가",
@@ -6459,14 +6917,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 개인차 · 지능이론 · 심심리측정적 지능 vs 가드너의 다중지능 · 연습 5",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "f8600310a497"
     },
     {
       "id": "ae25d3fa129f",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.08(1)-04교육과정-학습경험 선정의 원리, 잠재적 교육과정(2019학년도 교육학 기출 논점2)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.08(1)-04교육과정-학습경험 선정의 원리, 잠재적 교육과정(2019학년도 교육학 기출 논점2)(1).pdf",
+      "name": "교육과정 · 학습경험 선정의 원리, 잠재적 교육과정(2019학년도 교육학 기출 논점2) · 연습 1",
+      "path": "ae25d3fa129f",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6491,14 +6952,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 학습경험 선정의 원리, 잠재적 교육과정(2019학년도 교육학 기출 논점2) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "ae25d3fa129f"
     },
     {
       "id": "a587b6789d51",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.08(2)-04교육과정-학습경험 선정의 원리, 잠재적 교육과정, 탈목표평가(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.08(2)-04교육과정-학습경험 선정의 원리, 잠재적 교육과정, 탈목표평가(2).pdf",
+      "name": "교육과정 · 학습경험 선정의 원리, 잠재적 교육과정, 탈목표평가 · 연습 2",
+      "path": "a587b6789d51",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6525,14 +6989,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 학습경험 선정의 원리, 잠재적 교육과정, 탈목표평가 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a587b6789d51"
     },
     {
       "id": "5683a6964d9d",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.08(3)-04교육과정-학습경험 선정의 원리, 잠재적 교육과정(정의적 특성-자기개념)(3).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.08(3)-04교육과정-학습경험 선정의 원리, 잠재적 교육과정(정의적 특성-자기개념)(3).pdf",
+      "name": "교육과정 · 학습경험 선정의 원리, 잠재적 교육과정(정의적 특성 · 자기개념) · 연습 3",
+      "path": "5683a6964d9d",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정"
@@ -6543,14 +7010,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 학습경험 선정의 원리, 잠재적 교육과정(정의적 특성 · 자기개념) · 연습 3",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "5683a6964d9d"
     },
     {
       "id": "7eba05e0a724",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.09-04교육과정-교육내용 선정과 조직의 원리.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.09-04교육과정-교육내용 선정과 조직의 원리.pdf",
+      "name": "교육과정 · 교육내용 선정과 조직의 원리",
+      "path": "7eba05e0a724",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6570,14 +7040,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육과정 · 교육내용 선정과 조직의 원리",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "7eba05e0a724"
     },
     {
       "id": "51599b4e5da9",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.10-06교육평가-정의적 특성의 평가(리커트 척도) (2019학년도 교육학 기출 논점3 전반부).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.10-06교육평가-정의적 특성의 평가(리커트 척도) (2019학년도 교육학 기출 논점3 전반부).pdf",
+      "name": "교육평가 · 정의적 특성의 평가(리커트 척도) (2019학년도 교육학 기출 논점3 전반부)",
+      "path": "51599b4e5da9",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "신뢰도",
@@ -6592,14 +7065,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 정의적 특성의 평가(리커트 척도) (2019학년도 교육학 기출 논점3 전반부)",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "51599b4e5da9"
     },
     {
       "id": "a7997b0c2b49",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.11(1)-06교육평가-신뢰도의 종류-문항 내적 일관성 신뢰도 (2019학년도 교육학 논점3 후반부)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.11(1)-06교육평가-신뢰도의 종류-문항 내적 일관성 신뢰도 (2019학년도 교육학 논점3 후반부)(1).pdf",
+      "name": "교육평가 · 신뢰도의 종류 · 문항 내적 일관성 신뢰도 (2019학년도 교육학 논점3 후반부) · 연습 1",
+      "path": "a7997b0c2b49",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "신뢰도"
@@ -6610,14 +7086,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 신뢰도의 종류 · 문항 내적 일관성 신뢰도 (2019학년도 교육학 논점3 후반부) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a7997b0c2b49"
     },
     {
       "id": "a7de2b82ec58",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.11(2)-06교육평가-평가의 양호도(타당도와 신뢰도)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.11(2)-06교육평가-평가의 양호도(타당도와 신뢰도)(2).pdf",
+      "name": "교육평가 · 평가의 양호도(타당도와 신뢰도) · 연습 2",
+      "path": "a7de2b82ec58",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -6641,14 +7120,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 평가의 양호도(타당도와 신뢰도) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a7de2b82ec58"
     },
     {
       "id": "215a3ae3ee09",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.12(1)-06교육평가-평가의 양호도-신뢰도의 종류(검사-재검사 신뢰도(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.12(1)-06교육평가-평가의 양호도-신뢰도의 종류(검사-재검사 신뢰도(1).pdf",
+      "name": "교육평가 · 평가의 양호도 · 신뢰도의 종류(검사 · 재검사 신뢰도 · 연습 1",
+      "path": "215a3ae3ee09",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -6668,14 +7150,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 평가의 양호도 · 신뢰도의 종류(검사 · 재검사 신뢰도 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "215a3ae3ee09"
     },
     {
       "id": "a578335b9027",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.12(2)-06교육평가-평가의 양호도-신뢰도-신뢰도 제고방안(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.12(2)-06교육평가-평가의 양호도-신뢰도-신뢰도 제고방안(2).pdf",
+      "name": "교육평가 · 평가의 양호도 · 신뢰도 · 신뢰도 제고방안 · 연습 2",
+      "path": "a578335b9027",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "신뢰도",
@@ -6690,14 +7175,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육평가 · 평가의 양호도 · 신뢰도 · 신뢰도 제고방안 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a578335b9027"
     },
     {
       "id": "e56ba822e004",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.15(1)-08교육행정-지도성 이론-변혁적 지도성(2019학년도 교육학 논점4-전반부)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.15(1)-08교육행정-지도성 이론-변혁적 지도성(2019학년도 교육학 논점4-전반부)(1).pdf",
+      "name": "교육행정 · 지도성 이론 · 변혁적 지도성(2019학년도 교육학 논점4 · 전반부) · 연습 1",
+      "path": "e56ba822e004",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -6713,14 +7201,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 변혁적 지도성(2019학년도 교육학 논점4 · 전반부) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "e56ba822e004"
     },
     {
       "id": "6653a104d6e1",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.15(2)-08교육행정-지도성 이론-변혁적 지도성(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.15(2)-08교육행정-지도성 이론-변혁적 지도성(2).pdf",
+      "name": "교육행정 · 지도성 이론 · 변혁적 지도성 · 연습 2",
+      "path": "6653a104d6e1",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -6736,14 +7227,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 변혁적 지도성 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "6653a104d6e1"
     },
     {
       "id": "a727aac93a62",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.15(3)-08교육행정-지도성 이론-변혁적 지도성(3).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.15(3)-08교육행정-지도성 이론-변혁적 지도성(3).pdf",
+      "name": "교육행정 · 지도성 이론 · 변혁적 지도성 · 연습 3",
+      "path": "a727aac93a62",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -6759,14 +7253,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 지도성 이론 · 변혁적 지도성 · 연습 3",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "a727aac93a62"
     },
     {
       "id": "cd05682d1a60",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.16(1)-08교육행정-동료장학(2019학년도 논점4 하반부)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.16(1)-08교육행정-동료장학(2019학년도 논점4 하반부)(1).pdf",
+      "name": "교육행정 · 동료장학(2019학년도 논점4 하반부) · 연습 1",
+      "path": "cd05682d1a60",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6798,14 +7295,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 동료장학(2019학년도 논점4 하반부) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "cd05682d1a60"
     },
     {
       "id": "8c1392b13825",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.16(2)-08교육행정-인간자원장학(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.16(2)-08교육행정-인간자원장학(2).pdf",
+      "name": "교육행정 · 인간자원장학 · 연습 2",
+      "path": "8c1392b13825",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -6837,25 +7337,31 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 · 인간자원장학 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "8c1392b13825"
     },
     {
       "id": "2bc319b28429",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.17(1)-02교육심리-브론펜브레너의 생태학적 접근(학교-가정 연계의 필요성)(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.17(1)-02교육심리-브론펜브레너의 생태학적 접근(학교-가정 연계의 필요성)(1).pdf",
+      "name": "교육심리 · 브론펜브레너의 생태학적 접근(학교 · 가정 연계의 필요성) · 연습 1",
+      "path": "2bc319b28429",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 브론펜브레너의 생태학적 접근(학교 · 가정 연계의 필요성) · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "2bc319b28429"
     },
     {
       "id": "c088a6f887de",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.17(2)-02교육심리-브론펜브레너의 생태학적 접근(각 체계를 활용한 지원방안)(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.17(2)-02교육심리-브론펜브레너의 생태학적 접근(각 체계를 활용한 지원방안)(2).pdf",
+      "name": "교육심리 · 브론펜브레너의 생태학적 접근(각 체계를 활용한 지원방안) · 연습 2",
+      "path": "c088a6f887de",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "갈등"
@@ -6865,14 +7371,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 브론펜브레너의 생태학적 접근(각 체계를 활용한 지원방안) · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "c088a6f887de"
     },
     {
       "id": "dcbd08815e0b",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.18(1)-02교육심리-브론펜브레너의 생태학적 접근, 문화다원론(1).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.18(1)-02교육심리-브론펜브레너의 생태학적 접근, 문화다원론(1).pdf",
+      "name": "교육심리 · 브론펜브레너의 생태학적 접근, 문화다원론 · 연습 1",
+      "path": "dcbd08815e0b",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "다문화",
@@ -6887,14 +7396,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 브론펜브레너의 생태학적 접근, 문화다원론 · 연습 1",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "dcbd08815e0b"
     },
     {
       "id": "f1e1ad209d9b",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.18(2)-02교육심리-브론펜브레너의 생태학적 접근, 인지적 접근(2).pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.18(2)-02교육심리-브론펜브레너의 생태학적 접근, 인지적 접근(2).pdf",
+      "name": "교육심리 · 브론펜브레너의 생태학적 접근, 인지적 접근 · 연습 2",
+      "path": "f1e1ad209d9b",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "자기조절"
@@ -6904,14 +7416,17 @@
           1
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 브론펜브레너의 생태학적 접근, 인지적 접근 · 연습 2",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "f1e1ad209d9b"
     },
     {
       "id": "bef201b8da5a",
-      "name": "윤승현 3줄 교육학_매메세-2019.04.19-02교육심리-브론펜브레너의 생태학적 접근, 마샤의 정체성 상태, 허쉬의 사회유대이론.pdf",
-      "path": "앱에서 읽을 압축자료\\윤승현 매메세\\윤승현 3줄 교육학_매메세-2019.04.19-02교육심리-브론펜브레너의 생태학적 접근, 마샤의 정체성 상태, 허쉬의 사회유대이론.pdf",
+      "name": "교육심리 · 브론펜브레너의 생태학적 접근, 마샤의 정체성 상태, 허쉬의 사회유대이론",
+      "path": "bef201b8da5a",
       "pages": 2,
-      "group": "윤승현 매메세",
+      "group": "짧은 사례 연습",
       "status": "텍스트 색인",
       "topics": [
         "준거",
@@ -6930,14 +7445,17 @@
           2
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육심리 · 브론펜브레너의 생태학적 접근, 마샤의 정체성 상태, 허쉬의 사회유대이론",
+      "displayGroup": "짧은 사례 연습",
+      "readerId": "bef201b8da5a"
     },
     {
       "id": "da8170d2f1b8",
-      "name": "20대비 논술이론반-핵심톡톡(1)-제1장 교육과정.pdf",
-      "path": "앱에서 읽을 압축자료\\교육학 9영역\\20대비 논술이론반-핵심톡톡(1)-제1장 교육과정.pdf",
+      "name": "제1장 교육과정 이론 읽기",
+      "path": "da8170d2f1b8",
       "pages": 34,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -7072,14 +7590,17 @@
           34
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "제1장 교육과정 이론 읽기",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "da8170d2f1b8"
     },
     {
       "id": "52a5a0723444",
-      "name": "20대비 논술이론반-핵심톡톡(2)-제2장 교수-학습, 교육공학-캠버스.pdf",
-      "path": "앱에서 읽을 압축자료\\교육학 9영역\\20대비 논술이론반-핵심톡톡(2)-제2장 교수-학습, 교육공학-캠버스.pdf",
+      "name": "제2장 교수학습·교육공학 이론 읽기",
+      "path": "52a5a0723444",
       "pages": 60,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "준거",
@@ -7202,14 +7723,17 @@
           60
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "제2장 교수학습·교육공학 이론 읽기",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "52a5a0723444"
     },
     {
       "id": "d301c43ac9f2",
-      "name": "20대비 논술이론반-핵심톡톡(3)-제3장 교육평가 & 교육연구-캠버스.pdf",
-      "path": "앱에서 읽을 압축자료\\교육학 9영역\\20대비 논술이론반-핵심톡톡(3)-제3장 교육평가 & 교육연구-캠버스.pdf",
+      "name": "제3장 교육평가·교육연구 이론 읽기",
+      "path": "d301c43ac9f2",
       "pages": 44,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "타당도",
@@ -7331,14 +7855,17 @@
           33
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "제3장 교육평가·교육연구 이론 읽기",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "d301c43ac9f2"
     },
     {
       "id": "15abbfdd7219",
-      "name": "20대비 논술이론반-핵심톡톡(4)-제4장 생활지도와 상담-캠버스.pdf",
-      "path": "앱에서 읽을 압축자료\\교육학 9영역\\20대비 논술이론반-핵심톡톡(4)-제4장 생활지도와 상담-캠버스.pdf",
+      "name": "제4장 생활지도와 상담 이론 읽기",
+      "path": "15abbfdd7219",
       "pages": 25,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -7384,14 +7911,17 @@
           14
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "제4장 생활지도와 상담 이론 읽기",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "15abbfdd7219"
     },
     {
       "id": "05d27d72f920",
-      "name": "20대비 논술이론반-핵심톡톡(5)-교육행정-캠버스.pdf",
-      "path": "앱에서 읽을 압축자료\\교육학 9영역\\20대비 논술이론반-핵심톡톡(5)-교육행정-캠버스.pdf",
+      "name": "교육행정 이론 읽기",
+      "path": "05d27d72f920",
       "pages": 65,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -7533,14 +8063,17 @@
           58
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "교육행정 이론 읽기",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "05d27d72f920"
     },
     {
       "id": "7e93596f2e63",
-      "name": "20대비 논술이론반-핵심톡톡(6)-제6장 교육심리-캠버스.pdf",
-      "path": "앱에서 읽을 압축자료\\교육학 9영역\\20대비 논술이론반-핵심톡톡(6)-제6장 교육심리-캠버스.pdf",
+      "name": "제6장 교육심리 이론 읽기",
+      "path": "7e93596f2e63",
       "pages": 54,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "피드백",
@@ -7648,14 +8181,17 @@
           54
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "제6장 교육심리 이론 읽기",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "7e93596f2e63"
     },
     {
       "id": "1a3414d19e78",
-      "name": "20대비 논술이론반-핵심톡톡(7)-제7장 교육사회학-캠버스.pdf",
-      "path": "앱에서 읽을 압축자료\\교육학 9영역\\20대비 논술이론반-핵심톡톡(7)-제7장 교육사회학-캠버스.pdf",
+      "name": "제7장 교육사회학 이론 읽기",
+      "path": "1a3414d19e78",
       "pages": 35,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "교육과정",
@@ -7710,14 +8246,17 @@
           35
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "제7장 교육사회학 이론 읽기",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "1a3414d19e78"
     },
     {
       "id": "85803f5bea80",
-      "name": "20대비 논술이론반-핵심톡톡(8)-제8장 교육철학-캠버스.pdf",
-      "path": "앱에서 읽을 압축자료\\교육학 9영역\\20대비 논술이론반-핵심톡톡(8)-제8장 교육철학-캠버스.pdf",
+      "name": "제8장 교육철학 이론 읽기",
+      "path": "85803f5bea80",
       "pages": 40,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -7759,14 +8298,17 @@
           33
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "제8장 교육철학 이론 읽기",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "85803f5bea80"
     },
     {
       "id": "7e8f14b7b908",
-      "name": "20대비 논술이론반-핵심톡톡(9)-제9장 교육사-캠버스.pdf",
-      "path": "앱에서 읽을 압축자료\\교육학 9영역\\20대비 논술이론반-핵심톡톡(9)-제9장 교육사-캠버스.pdf",
+      "name": "제9장 교육사 이론 읽기",
+      "path": "7e8f14b7b908",
       "pages": 15,
-      "group": "교육학 묶음",
+      "group": "단원별 이론 읽기",
       "status": "텍스트 색인",
       "topics": [
         "동기",
@@ -7782,95 +8324,114 @@
           14
         ]
       },
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "제9장 교육사 이론 읽기",
+      "displayGroup": "단원별 이론 읽기",
+      "readerId": "7e8f14b7b908"
     },
     {
       "id": "8fdb50c0db9f",
-      "name": "★ 2019 윤승현 매메세 모음.zip",
-      "path": "★ 2019 윤승현 매메세 모음.zip",
+      "name": "사례 연습 자료 묶음",
+      "path": "보관 자료 묶음",
       "pages": 0,
-      "group": "압축 원본",
+      "group": "보관 자료 묶음",
       "status": "압축 목록 147개",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "사례 연습 자료 묶음",
+      "displayGroup": "보관 자료 묶음"
     },
     {
       "id": "62d29a6197d5",
-      "name": "교육학.zip",
-      "path": "교육학.zip",
+      "name": "이론 읽기 자료 묶음",
+      "path": "보관 자료 묶음",
       "pages": 0,
-      "group": "압축 원본",
+      "group": "보관 자료 묶음",
       "status": "압축 목록 9개",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "이론 읽기 자료 묶음",
+      "displayGroup": "보관 자료 묶음"
     },
     {
       "id": "45069a6cabc5",
-      "name": "권지수 모고_1회차.zip",
-      "path": "권지수 모고_1회차.zip",
+      "name": "모의연습 자료 묶음 · 1회",
+      "path": "보관 자료 묶음",
       "pages": 0,
-      "group": "압축 원본",
+      "group": "보관 자료 묶음",
       "status": "압축 목록 11개",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 자료 묶음 · 1회",
+      "displayGroup": "보관 자료 묶음"
     },
     {
       "id": "40bbd39f0052",
-      "name": "권지수_모고_2주차.zip",
-      "path": "권지수_모고_2주차.zip",
+      "name": "모의연습 자료 묶음 · 2회",
+      "path": "보관 자료 묶음",
       "pages": 0,
-      "group": "압축 원본",
+      "group": "보관 자료 묶음",
       "status": "압축 목록 7개",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 자료 묶음 · 2회",
+      "displayGroup": "보관 자료 묶음"
     },
     {
       "id": "e688fbf3062f",
-      "name": "권지수_모고_3주차.zip",
-      "path": "권지수_모고_3주차.zip",
+      "name": "모의연습 자료 묶음 · 3회",
+      "path": "보관 자료 묶음",
       "pages": 0,
-      "group": "압축 원본",
+      "group": "보관 자료 묶음",
       "status": "압축 목록 6개",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 자료 묶음 · 3회",
+      "displayGroup": "보관 자료 묶음"
     },
     {
       "id": "171d2cb699cd",
-      "name": "권지수 모고_1회차.zip",
-      "path": "권지수\\권지수 모고_1회차.zip",
+      "name": "모의연습 자료 묶음 · 1회",
+      "path": "보관 자료 묶음",
       "pages": 0,
-      "group": "압축 원본",
+      "group": "보관 자료 묶음",
       "status": "압축 목록 11개",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 자료 묶음 · 1회",
+      "displayGroup": "보관 자료 묶음"
     },
     {
       "id": "a43d1eb7d75b",
-      "name": "권지수_모고_2주차.zip",
-      "path": "권지수\\권지수_모고_2주차.zip",
+      "name": "모의연습 자료 묶음 · 2회",
+      "path": "보관 자료 묶음",
       "pages": 0,
-      "group": "압축 원본",
+      "group": "보관 자료 묶음",
       "status": "압축 목록 7개",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 자료 묶음 · 2회",
+      "displayGroup": "보관 자료 묶음"
     },
     {
       "id": "31439f49f994",
-      "name": "권지수_모고_3주차.zip",
-      "path": "권지수\\권지수_모고_3주차.zip",
+      "name": "모의연습 자료 묶음 · 3회",
+      "path": "보관 자료 묶음",
       "pages": 0,
-      "group": "압축 원본",
+      "group": "보관 자료 묶음",
       "status": "압축 목록 6개",
       "topics": [],
       "hits": {},
-      "duplicates": []
+      "duplicates": [],
+      "displayTitle": "모의연습 자료 묶음 · 3회",
+      "displayGroup": "보관 자료 묶음"
     }
   ],
   "method": "원문 내용은 포함하지 않은 파일명·개념어·쪽수 색인"
